@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "NOTES/weekly_readings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "699836b592b601d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/The Prehistory of Cognitive Science.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c56b91f657c891f5",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/weekly_readings.md",
+                "file": "NOTES/The Prehistory of Cognitive Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/weekly_readings.md",
+                "file": "NOTES/The Prehistory of Cognitive Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/weekly_readings.md"
+                "file": "NOTES/The Prehistory of Cognitive Science.md"
               }
             }
           }
@@ -146,9 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4989e783a2f5198",
+  "active": "699836b592b601d9",
   "lastOpenFiles": [
     "NOTES/weekly_readings.md",
+    "NOTES/The Prehistory of Cognitive Science.md",
+    "READINGS/Systematic Literature Review.pdf",
     "Untitled.md",
     "CLASS_PPTs/l1_hso501.pdf"
   ]

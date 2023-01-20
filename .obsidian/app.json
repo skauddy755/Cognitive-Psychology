@@ -2,5 +2,13 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "NOTES",
   "promptDelete": false,
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

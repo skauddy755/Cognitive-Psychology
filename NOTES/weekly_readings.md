@@ -2,8 +2,8 @@
 
 From: [[José Luis Bermúdez - Cognitive science _ an introduction to the science of the mind (2020).pdf]]
 
-- Ch-1 (complete)
-- Ch-2 (pg: 48-55)
+- Ch-1 (complete) #week-1 #ch-1 [[The Prehistory of Cognitive Science]]
+- Ch-2 (pg: 48-55) #week-1 #ch-2 
 
 # Week-2 Readings
 
