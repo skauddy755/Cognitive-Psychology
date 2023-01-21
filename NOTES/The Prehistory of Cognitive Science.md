@@ -140,4 +140,29 @@ The solution has to work both ways: "Yes" if defined and "No" if not defined.
 - A model of computation that looked as if it might be a clue to how **information could be processed by the mind**.
 - As theorists moved closer to the idea that **cognition involves processing information** it was an easy step to think about **information processing as an algorithmic process** along the lines analyzed by Turing.
 
+
 # (3) - Linguistics and the Formal Analysis of Language
+
+Language usage:
+1. **hierarchically organized complex behavior** - Karl Lashley
+2. **can be analyzed in algorithmic terms** - due to the emergence of tansformational linguistics and the formal analysis of syntax.
+
+## Syntactic Strutures (1957) - by Noam Chomsky
+
+**"why" (rather than "how") languages work the way they do**
+
+Structure of any language:
+1. **Deep Structure** (phase structure grammer) - formed by basic parts of speech: nouns, verbs, adjectives. Similar in all languages
+2. **Surface Structure** - The actual organization of words in a sentence.
+
+- Analyzing sentences in terms of their phrase structure is a powerful explanatory tool.
+- There are pairs of sentences that have very **different phrase structures, but are clearly very similar in meaning**.
+	- eg- “John has hit the ball” and “The ball has been hit by John.”
+	- In most contexts these sentences are equivalent and interchangeable, despite having very different phrase structures
+- The transformational principles of **transformational grammar** are examples of **algorithms**.
+- They specify a set of procedures that operate upon a string of symbols to convert it into a different string of symbols.
+
+
+**CONTRIBUTION to Cognitive Science**
+Provided a very clear example of **how to analyze (in algorithmic terms)**, the bodies of information that might underlie certain very **basic cognitive abilities** (such as the ability to speak and understand a language)
+
