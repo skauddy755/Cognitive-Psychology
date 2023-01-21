@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "NOTES/The Prehistory of Cognitive Science.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c56b91f657c891f5",

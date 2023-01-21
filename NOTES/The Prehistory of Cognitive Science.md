@@ -99,3 +99,45 @@ Lashley’s essay contains the seeds of two ideas:
      subtask: storing info - (sub-sub-task: long term, short-term)
      subtask: retrieving info
 
+# (2) - The idea of algorithmic computation in mathematical logic
+
+- In 1936–7 **Alan Turing** published an article in the *Proceedings of the London Mathematical Society* that introduced some of the **basic ideas in the theory of computation**.
+- **Computation** is what computers do and, according to many cognitive scientists, it is what minds do.
+- What Turing gave us was a **theoretical model** that many have thought to capture the essence of computation.
+
+## Algorithms and Turing Machines
+
+***"On Computable Numbers, with an Application to the Decision Problem" (1936-7)***
+
+- Many computer programs are not defined for every possible input.
+- They will give a solution for some inputs, the ones for which they are defined.
+- But for other inputs, the ones for which they are not defined, they will just endlessly loop, looking for a solution that isn’t there.
+
+*It is important to tell, whether the program is simply taking a long time to get to a solution, or is it stuck in an endless loop.*
+
+**Solution to the HALTING PROBLEM:**
+Given, a computer program and a given input(s).
+Can we tell, whether the program is defined for this input or not.
+The solution has to work both ways: "Yes" if defined and "No" if not defined.
+
+- Turing was looking for a ***purely mechanical solution*** to the Halting Problem.
+- For this, he needed to make the solution more precise - an **Algorithm**
+
+**TURING MACHINE:**
+- Any individual Turing machine has a **machine table (set of instructions)**.
+- The machine can be in any finite number of different states.
+- The machine table will determine, what the machine will do:
+	1. when it encounters a given **symbol**
+	2. in a particular **cell**
+	3. depending upon its **internal state**
+- There is no ambiguity and no room for the machine to exercise “intuition” or “judgment.”
+
+**OUTCOMES:**
+- Turing's paper contained a subtle proof that **Halting Problem cannot be solved**.
+- **Church-Turing thesis:** Anything that can be done in mathematics by an algorithm, can be done by Turing machine.
+
+**CONTRIBUTION to Cognitive Science:**
+- A model of computation that looked as if it might be a clue to how **information could be processed by the mind**.
+- As theorists moved closer to the idea that **cognition involves processing information** it was an easy step to think about **information processing as an algorithmic process** along the lines analyzed by Turing.
+
+# (3) - Linguistics and the Formal Analysis of Language
