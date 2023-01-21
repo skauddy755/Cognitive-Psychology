@@ -164,5 +164,78 @@ Structure of any language:
 
 
 **CONTRIBUTION to Cognitive Science**
+
 Provided a very clear example of **how to analyze (in algorithmic terms)**, the bodies of information that might underlie certain very **basic cognitive abilities** (such as the ability to speak and understand a language)
+
+
+# (4) - Information-Processing Models in Psychology
+
+The emergence of information theory can be pinned down to a single event – the publication of an article entitled “A mathematical theory of communication” by Claude E. Shannon in 1948.
+
+Information-processing models became established in psychology through 2 famous publications:
+1. "The magical number seven, plus or minus two"- *article by George Miller* (1956)
+2. "The role of auditory localization in attention and memory span" - *paper by Donanld Broadbent* (1954).
+	- The paper presented 2 inflencial experiments, which led to the book: "Perception and Communication"
+
+## The magical number seven, plus minus two (1956) - George Miller
+
+The tools of information theory can be applied to the study of the mind. One of the basic concepts of information theory is the **concept of an information channel**.
+**Perceptual systems are themselves information channels**. Example: Vision is a medium through which information is transmitted from the environment to the perceiver.
+
+> Human subjects are really rather **limited in the absolute judgments** 
+> (eg- naming a color, or identifying the pitch of a particular tone) 
+> – **as opposed to relative judgments**, 
+> (eg- identifying which of two colors is the darker, or which of two tones is higher in pitch) 
+
+**EXPERIMENT**
+
+When the sequence is only one or two tones long, subjects never make mistakes. But performance falls off drastically when the sequence is six or more tones long. A similar phenonemon occurs when we switch from audition to vision and ask subjects to judge the size of squares or the length of a line.
+
+**CONCLUSION**
+
+There seems to be an upper bound on the number of distinct items that can be processed simultaneously
+
+**RELATION TO PSYCHOLOGY**
+
+- Our **sensory systems are all information channels with roughly the same channel capacity**.
+- The perceiver’s capacity to make **absolute judgments is an index of the channel capacity** of the information channel that she is using.
+- One way of increasing channel capacity - **chunk information**. (eg- 25 is easier to remember than 11001)
+- Miller pointed out, to return to a theme that has emerged several times already, ***natural language is the ultimate chunking tool***
+
+## "The Role of Auditory Localization in Attention and Memory Span" (1954) and "Perception of Communication" (1958)
+
+One of the first models of how sensory information is processed was developed by the British psychologist Donald Broadbent in his 1958 book Perception and Communication
+
+***The cocktail party phenomenon** - We manage to focus only on what we want to listen*
+
+**DICHOTIC LISTENING EXPERIMENTS**
+
+- The experiments were reported in his paper “The role of auditory localization in attention and memory span”
+- Subjects are presented with different information in each ear. Involved presenting subjects with a string of three different stimuli (letters or digits) in one ear, while simultaneously presenting them with a different string in the other ear.
+- The subjects were asked to report the stimuli in any order
+
+**OBSERVATIONS**
+
+Broadbent found that they performed best when they reported the stimuli ear by ear – that is, by reporting all three presented to the left ear first, followed by the three presented to the right ear
+
+**EXPLANATION using a Model**
+
+![[Pasted image 20230121230046.png]]
+- Information comes through the **senses**
+- and passes through a **short-term store**
+- then passes through a **selective filter**. The selective filter screens out a large portion of the incoming information, selecting some of it for further processing. This is what allows us selectively to attend to only a portion of what is going on around us in the cocktail party.
+- Only information that makes it through the selective filter is *semantically interpreted*
+
+We can only attend to a single information channel at a time (assuming that each ear is a separate information channel) – and that the selection between information channels is based purely on physical characteristics of the signal.
+
+the selective filter is “programmed” by another system
+
+We are assuming that the system is pursuing a goal. What is programming the selective filter is information about the sorts of things that have led to that goal being satisfied in the past. 
+
+- Information that makes it through the selective filter goes into what Broadbent calls the **limited capacity channel**.
+- From the limited capacity channel information can go either into:
+	- the **longterm store**, OR
+	- on to **further processing and eventually into action**, OR
+	- it can be recycled back into the **short-term store**
+
 
