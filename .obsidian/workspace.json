@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/weekly_readings.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a674314294a201e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NOTES/weekly_readings.md",
+                "file": "NOTES/Representation of Mental Images.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/weekly_readings.md",
+                "file": "NOTES/Representation of Mental Images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/weekly_readings.md",
+                "file": "NOTES/Representation of Mental Images.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/weekly_readings.md"
+                "file": "NOTES/Representation of Mental Images.md"
               }
             }
           }
@@ -159,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a674314294a201e",
+  "active": "b4989e783a2f5198",
   "lastOpenFiles": [
-    "NOTES/Representation of Mental Images.md",
     "NOTES/weekly_readings.md",
+    "NOTES/Representation of Mental Images.md",
     "NOTES/The Prehistory of Cognitive Science.md",
     "READINGS/Systematic Literature Review.pdf",
     "Untitled.md",
