@@ -14,19 +14,19 @@
               "type": "markdown",
               "state": {
                 "file": "NOTES/weekly_readings.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "699836b592b601d9",
+            "id": "6a674314294a201e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/The Prehistory of Cognitive Science.md",
-                "mode": "source",
+                "file": "NOTES/weekly_readings.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/The Prehistory of Cognitive Science.md",
+                "file": "NOTES/weekly_readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/The Prehistory of Cognitive Science.md",
+                "file": "NOTES/weekly_readings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/The Prehistory of Cognitive Science.md"
+                "file": "NOTES/weekly_readings.md"
               }
             }
           }
@@ -159,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "699836b592b601d9",
+  "active": "6a674314294a201e",
   "lastOpenFiles": [
+    "NOTES/Representation of Mental Images.md",
     "NOTES/weekly_readings.md",
     "NOTES/The Prehistory of Cognitive Science.md",
     "READINGS/Systematic Literature Review.pdf",
