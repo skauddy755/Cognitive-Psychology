@@ -1,4 +1,4 @@
-[[weekly_readings]] #week-1 #ch-1 
+[[weekly_readings]] #week-1 #ch-1 #my-notes-755 
 
 # Contents
 

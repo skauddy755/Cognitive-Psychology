@@ -1,4 +1,4 @@
-[[weekly_readings]] #week-1 #ch-2 
+[[weekly_readings]] #week-1 #ch-2 #my-notes-755 
 
 # How do mental images represent?
 

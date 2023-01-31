@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f53b6576d31babc2",
+        "id": "82c4de4ab048b16c",
         "type": "tabs",
         "children": [
           {
-            "id": "b4989e783a2f5198",
+            "id": "6cbc42ff50d0be60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/Representation of Mental Images.md",
-                "mode": "preview",
+                "file": "NOTES/weekly_readings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81a7478d3da75d6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/Experimental methods in Cognitive Science.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/Representation of Mental Images.md",
+                "file": "NOTES/Experimental methods in Cognitive Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +115,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/Representation of Mental Images.md",
-                "linksCollapsed": false,
+                "file": "NOTES/Experimental methods in Cognitive Science.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -125,15 +138,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/Representation of Mental Images.md"
+                "file": "NOTES/Experimental methods in Cognitive Science.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,13 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4989e783a2f5198",
+  "active": "832a29fc5756f4a2",
   "lastOpenFiles": [
     "NOTES/weekly_readings.md",
-    "NOTES/Representation of Mental Images.md",
+    "NOTES/Experimental methods in Cognitive Science.md",
+    "NOTES/Systematic Literature Review.md",
     "NOTES/The Prehistory of Cognitive Science.md",
+    "NOTES/Representation of Mental Images.md",
+    "READINGS/Experimental_method_in_cognitive_science.pdf",
+    "READINGS/TriLevel_Marr.pdf",
+    "READINGS/experimental method.pdf",
     "READINGS/Systematic Literature Review.pdf",
-    "Untitled.md",
-    "CLASS_PPTs/l1_hso501.pdf"
+    "NOTES/attachments/Pasted image 20230121230046.png"
   ]
 }
