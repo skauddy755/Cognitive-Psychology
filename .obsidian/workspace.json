@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6cbc42ff50d0be60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NOTES/weekly_readings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "81a7478d3da75d6a",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,15 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "832a29fc5756f4a2",
+  "active": "81a7478d3da75d6a",
   "lastOpenFiles": [
     "NOTES/weekly_readings.md",
-    "NOTES/Experimental methods in Cognitive Science.md",
     "NOTES/Systematic Literature Review.md",
-    "NOTES/The Prehistory of Cognitive Science.md",
-    "NOTES/Representation of Mental Images.md",
+    "NOTES/Experimental methods in Cognitive Science.md",
     "READINGS/Experimental_method_in_cognitive_science.pdf",
     "READINGS/TriLevel_Marr.pdf",
+    "NOTES/Representation of Mental Images.md",
+    "NOTES/The Prehistory of Cognitive Science.md",
     "READINGS/experimental method.pdf",
     "READINGS/Systematic Literature Review.pdf",
     "NOTES/attachments/Pasted image 20230121230046.png"
