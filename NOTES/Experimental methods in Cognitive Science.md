@@ -24,20 +24,20 @@ Of the fields contributing to Cognitive Science, Cognitive Psychology makes prim
 
 The goal of Sciences is to build theories that enable **explanation**, **prediction** and **control** of events in the domain of inquiry
 
-**Theories:**
+#### Theories:
 
 - Theories are mental models of the emperical domain
 - systems of abstract concepts whose properties and rules of operation correspond to some emperical system.
 - Evaluating a theory (to have confidence in the correspondence) depends on checking whether its implications are true or not.
 
-**Introspection:**
+#### Introspection:
 
 - Many facts of human mind are apparent from introspection.
 - But introspection as a whole had a dismal record of failure. Since,
 	1. Much of the introspection are heavily influenced by the observer's theoretical preconceptions
 	2. Moreover, many cognitive processes go beyond awareness, or occur too rapidly to be available for a consious report
 
-**Emperical Techniques**
+#### Emperical Techniques
 
 1. Naturalistic Observation
 2. Correlational Studies
@@ -47,7 +47,7 @@ The goal of Sciences is to build theories that enable **explanation**, **predict
 
 systematic observation and recording of behaviour in a somewhat "natural setting"
 
-**Examples:**
+#### Examples:
 
 1. *by Development Scientist* - to describe the average maturation sequence of physical abilities (at what age can infants talk, walk, ...)
 2. *by Computer simulation scientist* - try to recreate (in their program) introspections of their own problem solving activities
@@ -68,7 +68,7 @@ systematic observation and recording of behaviour in a somewhat "natural setting
 
 - The deficiencies of correlational studies for arriving at conclusions about cause-effect relationships are rectified by the use of experiments.
 
-**Basic idea of an Experiment**
+#### Basic idea of an Experiment
 
 - We compare observations under two conditions:
 	1. Experimental Condition - which has the crucial factor / treatment introduced
@@ -76,7 +76,7 @@ systematic observation and recording of behaviour in a somewhat "natural setting
 
 - The comparison enables us to infer whether the experimental treatment causes a difference in behaviour
 
-**Hypothesis**
+#### Hypothesis
 
 - Hypothesis is a *generalization* or universal statement about the:
 	1. **causal relation** between variables, and
@@ -97,7 +97,7 @@ systematic observation and recording of behaviour in a somewhat "natural setting
 - Even with constant conditions, human behavior can be variable.
 - Hence, it is not reliable to compare single observations
 
-**Use of Groups**
+#### Use of Groups
 
 - Investigators therefore examine group (10-20) of subjects.
 - *Extraneous* (unaccounted) sources of variabilitlity (indiv diff in abilities, etc) are NULLified
@@ -106,22 +106,55 @@ systematic observation and recording of behaviour in a somewhat "natural setting
 	2. *within-subjects* - each subject is run in all conditions, and difference in subject's performance accross conditions is examined.
 - Depending on practical factors, any of the above two methods can be better than the other
 
-**Use of Statistical Procedures**
+#### Use of Statistical Procedures
 
 - The difference in average performances of groups accross conditions might have arisen simply "*by chance*"
 - Statistical Procedures:
 	- measure observable differences "*wrt baseline variability*" of that behaviourial measure
 	- allow precise estimate of how likely a given observation is to occur by chance alone
 
-**Other methods to exclude/minimize extraneous factors**
+#### Other methods to exclude/minimize extraneous factors
 
 1. Randomly assigning subjects to conditions
 2. Not informing subjects fully about the hypothesis
 3. Using equivalent tests in each condition
 
-**Some other difficulty - "not knowing all the factors influencing a certain behaviour"**
+#### Some other difficulty - "not knowing all the factors influencing a certain behaviour"
 
 - The complexity of experiments must be arranged to account for the new variable grow
 
 # Coordinating Theory with Observables
+
+#### Why to include "Theoretical Constructs"?
+
+- Many lawful generalizations simply relate categories of **observable events**. Such emperical regularities are useful for controlling and predicting certain phenomena
+- But sometimes its better, if we can know as to **why a given emperical law holds**.
+- It is usually done by postulating **theoretical constructs** that *do not correspnd to categories of observable events*
+- **Most variables of interest to cognitive scientist are unobservable. Examples:**
+	- mentalistic contructs - goals, intentions, beliefs, .... 
+	- memory stores - STM, LTM, ...
+	- mental processes - encoding, retrieval, ...
+
+#### Goal of "Theoretical Contructs":
+
+- To provide coherent explanation for diverse range of emperical phenomena
+- **Example:**
+	- A broad range of cognitive processes are influenced by "attention" of the subjects.
+	- Attention is *not observable*
+	- However, the contruct of attention simplifies a large number of unrelated observable events. Like observable factors which influences attention (eg- time of day, stimulant drugs, ...)
+- Positing a link between a **theoretical construct** (*attention*) and a **set of outcomes** is more generalized than,
+- Enumerating separate links between **many observable independent variables** (*time of day, stimulant drugs...*) and **many dependent variables**
+
+#### Need for "Coordination" between theory and observables
+
+- Then how to check the correspondence of the theories experimentally?
+- **Terms in the theory** must be **coordinated** to **observable stimuli, responses, events** in the experimental setting
+- Therefore, we can now
+	1. Manipulate a theoretical variable by altering observable factors (presumed to affect it)
+	2. Indirectly measure a theoretical variable through the observable behaviors it affects.
+- **EXAMPLE:**
+	1. Induce "thirst" (*theoretical variable) by having the subjects "eat salty crackers" (*observable stimuli*).
+	2. "Amount of water subject drinks" (*observable response*) is a measure of his "thirst"
+
+#### Study by Gluck and Bower (1988)
 
