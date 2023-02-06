@@ -158,3 +158,109 @@ systematic observation and recording of behaviour in a somewhat "natural setting
 
 #### Study by Gluck and Bower (1988)
 
+
+
+# Experiments on Human Cognitive Process
+
+- Experiments on cognition generally involve studying a subject's behaviour while they perform a certain task.
+- Subjects are presented with a **stimulus** in a particular **task context** and must **respond** to that stimulus in some way.
+
+#### Information Processing Approach
+
+- Performance in cognitive tasks commonly described by the analogy of a computer program, that takes **input** ("stimulus"), executes a "mental" **program**, and produces an **output** ("response")
+- Several questions can be asked about it:
+	1. **What function the program computes?**
+		- EXAMPLE: Subjects presented with tones of different intensities, and asked to give magnitude of loudness. Here function is the relation between intensity and loudness
+	2. **Which algorithm/strategy is used to compute this function?**
+		- EXAMPLE: Researchers investigating development of problem-solving-skills are interested in the particular procedures that the subjects use to solve the problem.
+	3. **Physical Implementation of the cognitive process?**
+		- By tradition not a outside the province of cognitive science.
+
+
+#### Task as a windows to fundamental cognitive properties
+
+- Cognitive Psychologists believe that, by observing subjects' performance in various laboratory tasks, they can investigate basic properties of human cognition in situations sufficiently simple and transparent that those properties can be revealved.
+- However, performances in some lab tasks often reflect the underlying strategy used to solve that task rather than the more fundamental cognitive process.
+- Inverstigators usually try to focus on those aspects of that are controlled by basic, or non-strategic factors.
+
+# Characterizing Psychological Process
+
+- One of the goals of Cognitive Science is to **"decompose an emperical system" into a set of hypothetical related components**, and then **"validating this decomposition" through experiments**
+- The "Mind" is treated as a system that can be decomposed into a collection of *somewhat separable subsystems*.
+	- EXAMPLE: memory, language, attention, visual perception, reasoning, etc.
+- The distinctions need to be justified. How?
+	- By observing whether the two components proposed to be distinct, are actually guided by different sets of independent variables (*in which case the distinction is justified*), OR
+	- Are they affected by the same set of independent variables in some way.
+
+
+# Analyzing Representation Types
+
+A standard issue in Cognitive Science is to:
+1. Specify the form in which a particular info is represented in the mind
+	- Experiment by - **Posner and Mitchell 1967**
+2. How the form of this representation changes over time
+	- Experiment by - **Posner and Keele 1967**
+
+Several methods used in measuring the analysing the nature of the memory code:
+1. **Judgement time**
+2. **Similarity** of two or mote stimulus
+3. **Interference** in processing the target info
+4. **Clustering** of items in *free-recall*
+
+#### Posner and Mitchell 1967
+
+**Given:** Subjects presented with 2 stimuli (which are 2 letters)
+
+**Task:** To identify whether they have
+
+1. "same-form" - AA, BB, but not Aa, Ab
+2. "same-name" - Aa, Bb, but not AB ab, BC
+
+**Observations:**
+
+1. In the "same-name" task, subjects were faster (by 70-100 ms) in recognizing *same-name pairs* with *similar physical form*
+2. In the "same-form" task, pairs having *different names* didn't have any disadvantage in flagging the *same-form pairs* to be same
+
+**Interpretation:**
+
+- The "name-code" becomes available some time after the "physical-code"
+
+#### Posner and Keele 1967
+
+**Given:** Subjects presented with 2 stimuli (which are 2 letters) but now with a delay of 0-2 seconds.
+
+**Task:** To identify whether they have
+
+1. "same-form" - AA, BB, but not Aa, Ab
+2. "same-name" - Aa, Bb, but not AB ab, BC
+
+**Observations:**
+
+1. The advantage in the "same-name" for the "physically identical pairs (same form)" reduced from 90ms to 10ms
+
+**Interpretations:**
+
+- The "physical-code" (visual) is converted *as quickly as possible* into a "name-code" (phonetic)
+- The "physical-code" decays rapidly (and is thus not actively maintained for long)
+
+#### Judgement Time
+
+- Based on the assumption that, retrieval and matching is quicker when the internal rep of 1st stimuli matches more closely to that of the 2nd stimuli
+
+#### Similarity of two or more stimuli
+
+- Internal representations (based on some coding-schemes) are selective, and may ignore (squash out) some features. Eg- You don't remember each and every detail of a geo-map
+- Two stimuli patterns that differ in features - which are ignored by the coding scheme - will have internal representations more mutually similar than their original counterparts
+
+#### **Interference** in processing the target info
+
+- Material that is encoded similarly to the target material will create greater intereference in the processing of the target material.
+- Example- people tendency to shadow one message and ignore a second simulateneous message is increased if the 2 messages are somewhat similar (in terms of pitch, context, voicing, ear of arrival, etc.)
+
+#### **Clustering** of items in free-recall
+
+- **Free recall:** Unconstrained recall of a set of items in any order as they come in mind.
+- During free-recall subjects tend to cluster items into various categories and sub-categories as per their topical knowledge.
+
+# Additive Factors Method
+
