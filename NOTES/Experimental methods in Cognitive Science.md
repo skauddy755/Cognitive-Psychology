@@ -174,7 +174,7 @@ systematic observation and recording of behaviour in a somewhat "natural setting
 	2. **Which algorithm/strategy is used to compute this function?**
 		- EXAMPLE: Researchers investigating development of problem-solving-skills are interested in the particular procedures that the subjects use to solve the problem.
 	3. **Physical Implementation of the cognitive process?**
-		- By tradition not a outside the province of cognitive science.
+		- By tradition outside the province of cognitive science.
 
 
 #### Task as a windows to fundamental cognitive properties
@@ -264,3 +264,33 @@ Several methods used in measuring the analysing the nature of the memory code:
 
 # Additive Factors Method
 
+#### What is Additive Factors Method?
+
+- A cognitive task can be dissected into various component processes.
+- These processes can be executed either concurrently or serially
+- The "additive-factors method" is a general experimental logic or method for dissecting the different processes involved.
+- It provides a way to decide whether two independent variables that influence the overall RT (reaction time) do so by affecting the same or different component processes.
+
+#### How is it done?
+
+- We divide the task into multiple stages (supposedly independent)
+- However, the truth maybe:
+	1. The stages are actually independent, OR
+	2. They are not independent (there exist some set of independent variables which affect more than one stages)
+- We attempt to manipulate independently the duration of different stages by using several independent variables, (each of which afffects only a single stage)
+- This (change in duration of stages by changing vars) should be possible if the stages are really independent (Truth-1)
+- *Since, **variables that affect different independent stages** may have an **additive effect** on the **total RT***
+
+#### Saul Sternburg, 1966-67
+
+- *Task similar to that of Posner and Keele*
+- **Task:** A small *set of items* `S = {'H', 'G', 'A'}` shown to the subjects. These items to be held in the memory before a *probe item* `p` is presented. Subjects task is to tell whether that probe item matched to any in the set.
+- **Observation:** A linear increase in the RT as `|S|` increased from 1 to 6
+- *The figure below shows the different stages (component-processes) involved in the task*
+	![[Pasted image 20230208124752.png]]
+- `Total RT = T(encoding) + T(retrieve and compare) + T(decision)`
+- He used the "additive-factors, method" to demonstrate the several stages.
+- EXAMPLE:
+	- "Blurring the probe item" (an independent *var*, supposedly affecting the "encoding-stage") increased the RT.
+	- But this effect in "encoding stage" was independent of another *var* say `|S|` which affected the "retrieve and compare stage".
+	- Hence, the two stages are "actually independent" (Truth-1) since the independent variables affecting each of them had an additive effect on the Total RT
