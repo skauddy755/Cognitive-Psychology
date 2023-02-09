@@ -36,3 +36,18 @@ From: [[José Luis Bermúdez - Cognitive science _ an introduction to the scienc
 1. Marr's Trilevel Hypothesis - [[TriLevel_Marr.pdf]]
 3. Modeling - [[VanRooijBlokpoel_2020_preprint.pdf]]
 
+# Week-4 (2023-01-30 to 2023-02-05)
+
+*Core concepts of Cognitive Psychology begins*
+
+## Main Readings:
+
+From: [[John Anderson - Cognitive Psychology and Its Implications (2015, Freeman_Worth) - libgen.li.pdf]]
+Ch-6 (Human Memory: Encoding and Storage)
+
+# Week-5 (2023-02-06 to 2023-02-12)
+
+## Main Readings:
+
+From: [[John Anderson - Cognitive Psychology and Its Implications (2015, Freeman_Worth) - libgen.li.pdf]]
+Ch-7 (Human Memory: Retention and Retrieval)
