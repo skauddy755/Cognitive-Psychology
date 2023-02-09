@@ -294,3 +294,41 @@ Several methods used in measuring the analysing the nature of the memory code:
 	- "Blurring the probe item" (an independent *var*, supposedly affecting the "encoding-stage") increased the RT.
 	- But this effect in "encoding stage" was independent of another *var* say `|S|` which affected the "retrieve and compare stage".
 	- Hence, the two stages are "actually independent" (Truth-1) since the independent variables affecting each of them had an additive effect on the Total RT
+
+
+# Dual Task
+
+- One of the fundamental propositions of ognitive science: "The *processing* resources of the mind is limited".
+- It is assumed that we allocate more or less to the several tasks the processing resources
+- **Dual-Task Experiments** are used to investigate how much processing capacity is required for particular task.
+
+#### Example Experiment:
+
+**Task-1:**
+Subjects hear a tone, and they have to press a button as quickly as possible. The reaction time for this task will be noted.
+**Task-2:**
+Subjects read a comprehension text which will be tested later.
+
+*Subjects are divided into 2 groups:*
+
+**Group-1:**
+They have to do only task-1. Let their average reaction time be T.
+**Group-2:**
+They have to do task-1 while being actively engaged in task-2 as well. Let their reaction time be T'
+
+**Observation:**
+
+- T' > T. which means (in case of Group-2) some amt of processing resources is being used by task-2 which degrades the performance of task-1.
+- The difference in time, k = T' - T is the time needed to read/comprehend the text, (task-2)
+- This k gives a ratio of the processing resources used by task-2.
+
+# Signal Detection Theory
+
+- Signal Detection Theory can be applicable to experiments using discrete trials.
+- In this, Subjects are presented a weak signal(s), and then asked to:
+	1. detect a weak signal
+	2. discriminate/differentiate it from other signals
+
+> *Read from the pdf...*
+
+
