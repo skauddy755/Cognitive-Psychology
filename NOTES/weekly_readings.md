@@ -44,6 +44,7 @@ From: [[José Luis Bermúdez - Cognitive science _ an introduction to the scienc
 
 From: [[John Anderson - Cognitive Psychology and Its Implications (2015, Freeman_Worth) - libgen.li.pdf]]
 Ch-6 (Human Memory: Encoding and Storage)
+Summary: #week-4 [[Memory - Encoding and Storage]]
 
 # Week-5 (2023-02-06 to 2023-02-12)
 

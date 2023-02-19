@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "595fb0ad81b28d66",
+        "id": "0655db1800d61894",
         "type": "tabs",
         "children": [
           {
-            "id": "6df9d4aaeea96fe9",
+            "id": "37ce14fc1cf9b628",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/Memory - Encoding and Storage.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NOTES/Memory - Encoding and Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NOTES/Memory - Encoding and Storage.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NOTES/Memory - Encoding and Storage.md"
+              }
             }
           }
         ],
@@ -139,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6df9d4aaeea96fe9",
+  "active": "37ce14fc1cf9b628",
   "lastOpenFiles": [
     "NOTES/weekly_readings.md",
-    "NOTES/Experimental methods in Cognitive Science.md",
-    "NOTES/Representation of Mental Images.md",
+    "BOOKS/John Anderson - Cognitive Psychology and Its Implications (2015, Freeman_Worth) - libgen.li.pdf",
+    "NOTES/Memory - Encoding and Storage.md",
     "NOTES/The Prehistory of Cognitive Science.md",
+    "NOTES/Representation of Mental Images.md",
+    "NOTES/Experimental methods in Cognitive Science.md",
     "NOTES/Systematic Literature Review.md",
     "READINGS/Experimental_method_in_cognitive_science.pdf",
     "READINGS/TriLevel_Marr.pdf",
-    "READINGS/experimental method.pdf",
-    "READINGS/Systematic Literature Review.pdf",
-    "NOTES/attachments/Pasted image 20230121230046.png"
+    "READINGS/experimental method.pdf"
   ]
 }
