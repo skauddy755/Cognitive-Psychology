@@ -52,3 +52,5 @@ Summary: #week-4 [[Memory - Encoding and Storage]]
 
 From: [[John Anderson - Cognitive Psychology and Its Implications (2015, Freeman_Worth) - libgen.li.pdf]]
 Ch-7 (Human Memory: Retention and Retrieval)
+Summary: #week-5 [[Memory - Retention and Retrieval]]
+
