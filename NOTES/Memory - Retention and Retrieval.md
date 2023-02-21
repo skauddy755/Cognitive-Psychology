@@ -339,3 +339,180 @@ retireval induced suppression
  - Recall was better even when more facts were learned, but it was so because the facts were causally related to the target fact
 
 
+# Retrieval and Inference
+---
+
+
+> Often, when people cannot remember a particular fact, they are able to retrieve related facts and so infer the target fact on the basis of the related facts.
+> 
+> In trying to remember material, people will use what they can remember to infer what else they might have studied.
+> 
+> people make such inferences at the time of recall.
+
+### Bransford, Barclay, and Franks (1972)
+
+- how interference leads to incorrect recall
+
+**Task:**
+
+They had participants study one of the following sentences:
+(1) Three turtles rested beside a floating log, and a fish swam beneath them.
+(2) Three turtles rested on a floating log, and a fish swam beneath them.
+
+Participants who had studied 1 were later asked whether they had studied this sentence:
+(3) Three turtles rested beside a floating log, and a fish swam beneath it.
+
+Participants who had studied sentence 2 were tested with
+(4) Three turtles rested on a floating log, and a fish swam beneath it.
+
+```
+NOTE in Actual:
+
+-----------------------
+(1) and (2) have "them"
+(3) and (4) have "it"
+-----------------------
+(1) - turtles resting "beside" log
+(2) - turtles resting "on" log
+-----------------------
+
+Now, By Logic:
+
+(1) !=> (3)
+(2) ==> (4)
+
+And in terms of actual,
+
+(1) != (3)
+(2) != (4)
+
+-----------------------
+
+Let's see if participants report by "actual fact" or by "inference"
+
+```
+
+
+**Observations:**
+
+- Let x = partipants who studied (1) and said YES to (3)
+- Let y = partipants who studied (2) and said YES to (4)
+- x < y
+
+**Explanations**
+
+- Participants used inference rather than recall the exact fact.
+- For, had it been the case of exact recall, then x same as y
+
+### Sulin and Dooling 1974
+
+How, inference can bias mem for a text.
+
+![[Pasted image 20230222011825.png]]
+**Setting & Task:**
+
+- Participants divided into 2 groups:
+	- G-1: gave the text to read
+	- G-2: gave the text to read (but subst. Carol Harris -> Helen Keller)
+- After a week's time, they were given test sentences and asked whether they had occured in the passage or not.
+- Included sentence like S' - "She was deaf, dumb, and blind"
+
+**Observations:**
+
+- Only 5% from G-1 said YES to S'
+- While 50% from G-2 said YES to S'
+
+> **NOTE:**
+> With increased delay (between study and test) the tendency for inference increased.
+> This also suggests that, inference was made during recall time rather than while studying
+
+
+## Plausible Retrieval
+---
+
+> People will often judge what plausibly might be true rather than try to retrieve exact facts.
+
+### Reder
+
+**Setting & Task:**
+
+ - Partipants to study a text
+ - Then asked to recognise whether some test sentences were true or not.
+ - Test sentences were of 3 types: (1) exactly true (2) plausibly true (3) neither
+ - There was 2 types of tasks:
+	 - (Exact Recall): say TRUE - {1}, FALSE - {2, 3}
+	 - (plausible retrieval) say TRUE - {1, 2},  FALSE - {3}
+
+**Observations:**
+
+- initially took more time for plausible recall task. But as delay increased, exact recall task took more time
+- ![[Pasted image 20230222013951.png]]
+
+**Explanations:**
+
+- As delay increased, they no longer tried to recall the exact facts. Inference was dominant.
+- Plausible recall (since does not depend on a particular trace) is not vulnerable to forgetting
+
+> **Reder and Ross 1983** compared exact and plausible judgements in another study
+
+
+## Interaction of Elaboration and Inferential Reconstruction
+---
+
+> **semantic elaborations** should facilitate the process of inference by providing **more material from which to infer**.
+> 
+> Thus, we expect elaborative processing to lead to both an **increased recall** of what was studied and an **increase in the number of inferences recalled**.
+
+### Bower, and Black (1979)
+
+**Setting & Task:**
+
+- 2 groups of Participants studied a story:
+	- G-1: Only the story
+	- G-2: A themed additional info + the story
+- After 24 hours, both were asked to recall the story
+
+**Observations:**
+- For each of the groups, the propositions (facts) can be of 2 types: **studied** and **inferred**
+- ![[Pasted image 20230222015526.png]]
+- G-1 (group with themed condition) not only had reported **more inferred facts** but also **more studied facts**, compared to G-2 (neutral condition)
+
+**Explanations & Conclusions:**
+
+- When participants elaborate on material while studying it, they tend to recall **more of what they studied** and also tend to recall the **inferences that they did not study** (but made themselves).
+
+## Eyewitness Testimony & False Memory Controversy
+---
+
+The ability to make inferences from info, both during study and during recall is essential in our using memory successfully.
+
+However, there are cases when we need to separate what we actually saw or heard from our inferences. Failing to do so, can cause **false-memories**
+
+> Serious errors of memory can occur because people fail to separate what they actually experienced from what they inferred, imagined, or were told
+
+#### Eye-witness testimony - Loftus, Miller & Burns 1978
+
+- asked participants who had witnessed a traffic accident about the speed of car when it passed a Yield signal.
+- Although in truth, there was no Yield signal, but most of them, subsequently remembered having one.
+- Hence, subsequent information can make us to infer the existence of facts which never actually existed
+
+#### False-memory syndrome - Schacter, 2001
+
+- Many claim to recover memories of childhood abuse (that they had suppressed) during thrapy.
+- However, it is critized that many of these reported events (so called "recovered memories") never actually occured.
+- They were created due to (out of) the suggestions of the therapist.
+
+#### Loftus and Pickerall, 1995
+
+- Suggestive interview techniques can create false memories.
+- Asked elder relatives of adult partipants to report 4 childhood incidents (3T, 1F-lost in a mall).
+- 25% Participants claimed that they remembered "lost in mall" event.
+
+Similar experiment by **Wade, Garry, Read, and Lindsay (2002)** in which participants were shown a *false picture of childhoon on a hot-air balloon*
+
+
+## False Memories and The Brain
+---
+
+> The hippocampus responds to false memories with as high activation as it responds to true memories and so fails to discriminate between what was experienced and what was imagined.
+
