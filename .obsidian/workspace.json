@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e9cad841f29c7e49",
+        "id": "6ac09e6020e6549f",
         "type": "tabs",
         "children": [
           {
-            "id": "5a933d1502e6db76",
+            "id": "62cdf0c7a211fb40",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a933d1502e6db76",
+  "active": "62cdf0c7a211fb40",
   "lastOpenFiles": [
-    "NOTES/Untitled.md",
+    "COMPILED - NOTES/Experimental methods in Cognitive Science.pdf",
+    "COMPILED - NOTES/The Prehistory of Cognitive Science.pdf",
     "NOTES/Memory - Retention and Retrieval.md",
     "NOTES/Memory - Encoding and Storage.md",
+    "NOTES/Untitled.md",
     "NOTES/weekly_readings.md",
     "NOTES/The Prehistory of Cognitive Science.md",
     "NOTES/Representation of Mental Images.md",
     "NOTES/Experimental methods in Cognitive Science.md",
-    "BOOKS/John Anderson - Cognitive Psychology and Its Implications (2015, Freeman_Worth) - libgen.li.pdf",
-    "NOTES/Systematic Literature Review.md",
-    "READINGS/Experimental_method_in_cognitive_science.pdf"
+    "BOOKS/John Anderson - Cognitive Psychology and Its Implications (2015, Freeman_Worth) - libgen.li.pdf"
   ]
 }

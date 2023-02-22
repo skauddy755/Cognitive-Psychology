@@ -29,7 +29,7 @@
 	- Procedural Memory
 
 
-# Are memories really Forgetting?
+# Are memories really Forgetten?
 ---
 
 
@@ -239,7 +239,7 @@ Do such interference effects (fan-effect) occur with material learned outside of
 - Reaction time decreased with num of fantasy facts
 - This happened not only for (1) but also for (2)
 - However, overall recognition time (for a given fan-in) followed the order: 
-	  False < ExpTrue < ActTrue
+	  False > ExpTrue > ActTrue
 - ExpTrue < ActTrue ... REASON: actual facts are more strongly encoded in memory than the fantasy facts
 
 #### Conclusion:
@@ -515,4 +515,146 @@ Similar experiment by **Wade, Garry, Read, and Lindsay (2002)** in which partici
 ---
 
 > The hippocampus responds to false memories with as high activation as it responds to true memories and so fails to discriminate between what was experienced and what was imagined.
+
+
+### Deese-Roediger-McDermott paradigm
+- originally invented by **Deese (1959)** and elaborated by **Roediger and McDermott (1995)**
+- Participants given list of words - (thread, pin, eye, sewing, sharp, point,...) or (bed, rest, awake, tired, dream, ...)
+- The they were tested on some list of test words which can be of three types:
+- (1) **True** - which were present in the lists (2) **False** - not present but closely related (3) **New**
+- Participants *accepted most of True* and *rejected most of New*. But *difficulty in rejecting False*
+
+**Cabeza, Rao, Wagner, Mayer, and Schacter (2001)**
+
+- found that 88% of the true items and only 12% of the new items were accepted, but 80% of the false items were also accepted—almost as many as the true items
+
+**Cabeza et al.**
+
+- Examined the activation patterns for these types of words
+	1. In **hippocampus proper** - True and False produced almost identical fMRI responses
+	2. In **parahippocampal gyrus** - False and New items produced similar fMRI responses
+- *Hippocampus* maintains a **more abstract representation**. But *parahippocampal gyrus* is closely connected to the sensory regions of the brain and tends to retain **more of the original sensory experience**
+- *people can be trained to pay more attention to these distinctive sensory features and so improve their resistance to false memories* eg- Elder dults
+
+
+# Associative Structures and Retrieval
+
+The spreading-activation theory described in Chapter 6 implies that we can improve our memory by providing prompts that are closely associated with a particular memory
+
+Eg- while trying to remember name of some old classmate, we try to remember other classmates or memories of things we did with that classmate.
+
+### Tulving and Pearlstone (1966)
+
+- **Study:** participants learn lists of 48 words that contained categories such as dog, cat, horse, and cow, which were mammal category
+- **Test:** They were tested for recall of these words
+- **Obs:** Recall was better when they were given the prompt: "mammal" 
+- **Explanation:** It served as a "cue" for those words.
+
+## Effects of Encoding Contexts
+---
+
+> **(1) Physical Context:**
+> - Smith, Glenberg, and Bjork (1978) - importance of phy ctx
+> - Godden and Baddeley (1975) - extreme phy ctx - (divers exp)
+> - Eich (1985) - magnitude of phy ctx effect
+>
+> **(2) Emotional Context:**
+> - Bower, Monteiro, and Gilligan (1978) - importance of emotion/mood ctx
+> - Eich and Metcalfe (1989) - magnitude of mood ctx effect
+> 
+> **(3) Mood Congruence:**
+> - Teasdale and Russell (1983) - (+ve, -ve and neutral mem.)
+> 
+> **(4) State-dependent Learning:**
+> - Eich, Weingartner, Stillman, & Gillin (1975) - marijuana exp
+
+
+### Smith, Glenberg, and Bjork (1978)
+
+**Study**:
+
+- Participants learned two lists of paired associates on different days and in different physical settings.
+	- S-1: neat room, well groomed experimenter, slides presented
+	- S-2: untidy room, shabby experimenter, tape recorder presented
+
+**Test:**
+
+- A Day later, asked to recall half of paired associates in one setting, half in other
+
+**Obs:**
+
+- 59% recall in same setting, 46% recall in different setting
+
+**Explanations**
+
+- Since, effect of cleanliness of rooms didn't play any effect.
+- It was physical context similarity between study and test phases
+
+
+### Godden and Baddeley (1975)
+
+- They had divers learn a list of 40 unrelated words either on the shore or 20 feet under the sea. The divers were then asked to recall the list either in the same environment or in the other environment.
+- Recall was better in same env conditions
+![[Pasted image 20230222134814.png]]
+
+> Many experiments failed to show any context dependence
+
+### Eich (1985)
+
+- Argued that the magnitude of such contextual effects depends on the degree to which the participant integrates the context with memories
+- **Study:** read list of nouns (eg- kite) to 2 groups.
+	- G-1: asked to imagine just the noun.
+	- G-2: imagine the noun in the context of env. (eg- kite is on this table)
+- They were tested for recall.
+- **Result:** the Effect of Physical Context (increase or decrease in recall depending upon same or diff env between study and test) was more for G-2 than G-1.
+- Since, for G-2, the env was more integrated with the target memory
+- **Conclusion:** *Thus, physical context effects occur only in special study situations*
+
+### Bower, Monteiro, and Gilligan (1978)
+
+- **Study:** instructed participants to learn two lists. For one list, they hypnotically induced a positive state by having participants review a pleasant episode in their lives; for the other, they hypnotically induced a negative state by having participants review a traumatic event
+- **Recall Test:** under wither +ve or -ve emotional state (again hypnotically induced).
+- **Results:** recall better when same emotional state between study and test
+
+### Eich and Metcalfe 1989
+
+- found that mood-dependent effects tend to be obtained only when participants integrate what they are studying with mood information.
+- *Thus, mood-dependent effects occur only in special study situations*
+
+> **MOOD CONGRUENCE**
+> - easy to happy memories when happy and sad memories when sad
+>
+> **Difference with Mood-effect**
+> - ***Mood-Effect:*** relation between mood during study and mood during test
+> - ***Mood-congruence-effect:*** relation between content of memory (in terms of mood) and mood during test
+
+### Teasdale and Russell (1983)
+
+- **Study:** participants to learn a list of +ve, -ve ane neutral words a neutral-mood study condition
+- **Test:** reacall those words in different mood stages
+- **Obs:** given a mood-stage recalled more words (whose mood) that matched that stage
+- **Explanations:** When a certrain mood-stage is created, elements of that mood will "prime" (*priming*) memories (words) that share these elements.
+
+> **STATE-DEPENDENT LEARNING**
+> 
+>- focuses on the internal state (physical + emotional) of the subjects
+>- People find it easier to recall information if they can return to the same **emotional and physical state** they were in when they learned the information
+>
+> **Example:**
+> - *It is often casually claimed that when heavy drinkers are sober, they are unable to remember where they **hid their alcohol** when drunk, and when drunk, they are unable to remember where they **hid their money** when sober.*
+
+### Eich, Weingartner, Stillman, & Gillin, 1975
+
+- **Study:** participants learned a free-recall list after smoking, either
+	- (1) a marijuana cigarette (intoxicated), or
+	- (2) an ordinary cigarette (non-intoxicated)
+- **Test:** tested 4 hours later, again after smoking either a marijuana cigarette or a regular cigarette
+- **Obs:** *effects of psychoactive drugs on memory*
+	1. **State-dependent effect:** recall better when state at test time matched with study time
+	2. Overall high level recall when "studied" (not "tested") under non-intoxicated state
+- ![[Pasted image 20230222153939.png]]
+
+
+***People show better memory if their external context and their internal states are the same at the time of study and the time of the test***
+
 
