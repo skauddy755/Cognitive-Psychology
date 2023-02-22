@@ -655,6 +655,142 @@ Eg- while trying to remember name of some old classmate, we try to remember othe
 - ![[Pasted image 20230222153939.png]]
 
 
-***People show better memory if their external context and their internal states are the same at the time of study and the time of the test***
+***People show better memory if their external context and their internal states are the same at the time of study and the time of the test***
 
+
+## The Encoding-Specificity Principle
+---
+
+> In general, **recognition** is easier than **recall**.
+> Eg- we perform better in MCQs than FITBs
+> 
+> But making "test-context" similar to "study-context", we can increase the similarity of a word's encoding during test and study - called the "**Encoding Specificity Principle**"
+> 
+> This factor when "armed to recall" can **make it better than** the "unarmed recognition"
+
+### Tulving & Thompson, 1973; Watkins & Tulving, 1975
+
+- Experiment had 3 phases:
+- (1) **Original Study:**
+	- participants to learn pairs of words (eg- train-black)
+	- and told to remember second word in the pair ("*to-be-remembered*")
+- (2) Test-1: **Generate and Recognize:**
+	- participants given word "white" and asked to gen. 4 associated words like- "snow", "black", "wool", "pure".
+	- The stimuli chosen such that it has high probability to elicit the "*to-be-remembered*" word.
+	- Participants then asked which of the 4 generated words (if at all) had the to-be-rem
+	- They correctly chose it < 54% time
+- (3) Test-3: **Cued Recall:**
+	- participants presented with original context words (eg- train)
+	- Asked to recall the to-be-rem.
+	- They recalled it correctly 61% of the time
+	- (even performed better than free-associates)
+- **Conclusion:**
+	- *People show better word memory if the words are tested in the context of the same words with which they were studied.*
+
+
+# Hippocampal Formation and Amnesia
+
+- Damage to the hippocampal area also produces severe amnesia (memory loss) in humans.
+
+- One common cause is a severe blow to the head, but other frequent causes include brain infections (such as **encephalitis**) and chronic alcoholism, which can result in a condition called **Korsakoff syndrome**.
+
+- Such damage can result in two types of amnesia:
+	1. **retrograde amnesia:** loss of memory for events that occurred before the injury
+	2. **anterograde amnesia:** inability to learn new things.
+
+
+# Implicit vs Explicit Memories
+
+British musicologist **Clive Wearing**, who suffered herpesviral encephalitis that attacked his brain particularly hippocampus.
+
+He has no memory from his past, **but can play piano**
+
+This illustrates the distinction between:
+1. **explicit memory** - what we can ***consciously recall***, and
+2. **implicit memory** - what we remember ***only in our actions***
+
+### Snyder, Ashitaka, Shimada, Ulrich, & Logan, 2014
+
+- Many **proficient typists** *cannot recall the arrangement* of the keys except by *imagining themselves typing*
+- Their fingers know where the keys are, but they have **no conscious access to this knowledge**
+
+### Graf, Squire, and Mandler (1984)
+
+- Two types of participants (P-1) Amnesic, (P-2) Normal
+- **Study:** a list of words (like- banana)
+- **Test:** two types:
+	- T-1 (**Free-recall**): Recall the studied words
+	- T-2 (**Word-completion**): Shown first-three letters of the studied words (eg- ban___) then asked to make an English word out of it
+- **Obs:**
+	- T-1: performance better for normal people (P-2)
+	- T-2:
+		- Performance of both groups were similar, and
+		- both came up with the studied word > 50% of time
+- **Explanations:**
+	- Amnesic patients too had a memory for the list of words
+	- They could not access this memory in the *free-recall* task
+	- But displayed implicit memory in *word-completion* task.
+
+
+***Amnesic patients often cannot consciously recall a particular event but will show in implicit ways that they have some memory for the event.*
+
+
+## Implicit vs Explicit Memory in Normal Particpants
+---
+
+- Drammatic ***dissociation** in implicit and explicit memory* can be see in Amnesic patients.
+- But, certain vatiables have diff effects on tests on explicit mem. than tests on implicit mem.
+
+### Jacoby 1983
+
+- **Study:** study a word (say *woman*) under three conditions:
+	- (C-1): The word alone (woman) - **No Context**
+	- (C-2): In presence of an acronym (man-woman) - **Context**
+	- (C-3): generate the target word of their own and remember it - **Generate**
+- **Test:** in two ways:
+	- (T-1): **Explicit memory Test** (Recognition Judgement)
+		- presented with list of words, and asked to recognize the studied words
+	- (T-2): **Implicit memory Test** (Perceptual Identification)
+		- presented a word for brief period (40ms) - short enough to make consiouss judgement - and asked to identify the word (Studied? or not-studied?)
+- **Obs:**
+	- (T-1): Performance was best in the condition that involved more semantic and generative processing (C1 < C2 < C3)
+	- (T-2): Performance showed opposite trend (C1 > C2 > C3)
+- **Explanations:**
+	- ***This Enhancement of perceptual recognition*** is referred to as "**priming**"
+	- **greatest priming in the no-context (C-1) condition** because this is the study condition in which they had to *rely most on a perceptual encoding*
+- ![[Pasted image 20230222190410.png]]
+
+
+### Jacoby and Witherspoon (1982)
+
+- **Aim:** whether participants would display more priming for words they could recognize than for words they could not.
+- **Study:** participants studied list of words
+- **Test:**
+	- (T-1): try to recognize explicitly whether or not they had studied the words
+	- (T-2): simply say what word they had seen after a very brief presentation (ppt words were either from the study list or were new)
+- **Obs:**
+	- NOTE: After T-1 There are now 2 pairs of words:
+		- (studied | not-studied)
+		- (recognized-in-T1 | not-recognized-in-T1)
+	- It was seen that performance in T-2:
+		- better in case of studied words than not-studied ones.
+		- independent of whether they had been recog-in-T1 or not
+- **Conclusion:**
+	- exposure to a word improves normal participants’ ability to perceive that word (success of implicit memory), even when they cannot recall having studied the word (failure of explicit memory)
+	- -----> success/failure of explicit memory has little to do with success of implicit memory (which depends on whether it has been previously perceived or not)
+
+
+### Neuroimaging Studies
+
+- **Implicit memories** are stored in the **cortex**
+- **Priming produced decreased activation** in visual areas responsible for the recognition of pictures
+- The decreased activation that we see with priming reflects the fact that it is *easier to recognize the primed items*.
+- The brain regions responsible for the perceptual processing have to work less and so produce a ***weaker fMRI response***.
+
+- A general interpretation of these results would seem to be that:
+	- new explicit memories are formed in the hippocampus;
+	- but with experience, this information is transferred to the cortex.
+	- That is why hippocampal damage does not eliminate old memories formed before the damage
+
+## Procedural Memory
 
