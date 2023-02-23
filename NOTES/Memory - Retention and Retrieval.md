@@ -685,7 +685,7 @@ Eg- while trying to remember name of some old classmate, we try to remember othe
 	- They recalled it correctly 61% of the time
 	- (even performed better than free-associates)
 - **Conclusion:**
-	- *People show better word memory if the words are tested in the context of the same words with which they were studied.*
+	- *People show better word memory if the words are tested in the context of the same words with which they were studied.*
 
 
 # Hippocampal Formation and Amnesia
@@ -790,7 +790,14 @@ This illustrates the distinction between:
 - A general interpretation of these results would seem to be that:
 	- new explicit memories are formed in the hippocampus;
 	- but with experience, this information is transferred to the cortex.
-	- That is why hippocampal damage does not eliminate old memories formed before the damage
+	- That is why *hippocampal damage does not eliminate old memories* formed before the damage
 
 ## Procedural Memory
+---
+
+
+
+
+
+***Procedural learning is another type of implicit learning and is supported by the basal ganglia***
 

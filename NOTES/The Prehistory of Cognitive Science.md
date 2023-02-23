@@ -8,6 +8,8 @@
 4. The emergence of information-processing models in psychology (Section 1.4)
 
 # (1) - The reaction against behaviorism in psychology
+---
+
 
 Behaviorists think that,
 - psychologists should avoid speculating about unobservable mental states,
@@ -24,6 +26,8 @@ Some of the ideas that proved important for the later development of cognitive s
   **The problem of serial order in behavior (1951)** - by Karl Lashley
 
 ## 'Insight' in Rats (1930)
+---
+
 
 Two standard behaviorist assumptions about learning.
 - All learning is the result of conditioning.
@@ -57,6 +61,8 @@ had they been correct, then after g3 started getting reward they should have tak
 Tolman and his students and collaborators designed many experiments during the 1930s and 1940s to try to decide between **place learning** and **response learning** accounts of how rats learn to run a maze. Some of these experiments were reported in a famous article in 1946.
 
 ## Studies in Spatial Learning (1946)
+---
+
 
 One experiment used a cross-maze with four end points (North, South, East, West)
 Rats were started at North and South on alternate trials.
@@ -78,6 +84,8 @@ It was easier for animals to code spatial information in terms of places rather 
 - Tolman’s cognitive maps were one of the first proposals for explaining behavior in terms of **representations (stored information about the environment)**
 
 ## The Problem of Serial Order in Behavior (1951)
+---
+
 
 **COMPLEX BEHAVIORS:**
 - Behaviorisms: They have to view them as linked sequences of responses
@@ -89,65 +97,97 @@ It was easier for animals to code spatial information in terms of places rather 
 > - The **behaviors are organized hierarchically** (rather than linearly)
 
 Lashley’s essay contains the seeds of two ideas:
-1. **hypothesis of subconscious information processing**
-   Even though we are often conscious of our high-level plans and goals (of what goes on at the top of the hierarchy), we tend not to be aware of the information processing that translates those plans and goals into actions.
+1. **hypothesis of subconscious information processing** 
+   Even though we are often conscious of our high-level plans and goals (of what goes on at the top of the hierarchy), we tend to be unaware of the information processing that translates those plans and goals into actions.
    - Example: consiously have intention to pick a glass, but calculations of the exact trajactory of hand is done far below the threshold of consious awareness.
    
-2. **hypothesis of task analysis**
+2. **hypothesis of task analysis** 
    understand a complex task (and the cognitive system performing it) by breaking it down into a hierarchy of more basic subtasks (and associated subsystems)
    - Example: Task to exploit previously acquired information can be broken down as-
      subtask: storing info - (sub-sub-task: long term, short-term)
      subtask: retrieving info
 
 # (2) - The idea of algorithmic computation in mathematical logic
+---
+
 
 - In 1936–7 **Alan Turing** published an article in the *Proceedings of the London Mathematical Society* that introduced some of the **basic ideas in the theory of computation**.
 - **Computation** is what computers do and, according to many cognitive scientists, it is what minds do.
 - What Turing gave us was a **theoretical model** that many have thought to capture the essence of computation.
 
 ## Algorithms and Turing Machines
+---
+
 
 ***"On Computable Numbers, with an Application to the Decision Problem" (1936-7)***
 
-- Many computer programs are not defined for every possible input.
-- They will give a solution for some inputs, the ones for which they are defined.
-- But for other inputs, the ones for which they are not defined, they will just endlessly loop, looking for a solution that isn’t there.
+> **Computer Programs:**
+> 
+> - Many computer programs are not defined for every possible input.
+> - They will give a solution for some inputs, the ones for which they are defined.
+> - But for other inputs, the ones for which they are not defined, they will just endlessly loop, looking for a solution that isn’t there.
+>   
+> *It is important to tell, whether the program is simply taking a long time to get to a solution, or is it stuck in an endless loop.*
+> 
+> **Halting Problem:**
+>
+> - *A fundamental concept in computer science and logic.*
+> - It refers to the problem of determining whether a computer program will eventually halt (terminate) or continue running indefinitely.
+>
+> **Solution to the Halting Problem:**
+> 
+> - Given, a computer program and a given input(s).
+> - Can we tell, whether the program is defined for this input or not.
+> - The solution has to work both ways: "Yes" if defined and "No" if not defined.
+> 
+> **Why the Turing Machine?**
+> - Turing was looking for a ***purely mechanical solution*** to the Halting Problem.
+> - For this, he needed to make the solution more precise - an **Algorithm**
 
-*It is important to tell, whether the program is simply taking a long time to get to a solution, or is it stuck in an endless loop.*
-
-**Solution to the HALTING PROBLEM:**
-Given, a computer program and a given input(s).
-Can we tell, whether the program is defined for this input or not.
-The solution has to work both ways: "Yes" if defined and "No" if not defined.
-
-- Turing was looking for a ***purely mechanical solution*** to the Halting Problem.
-- For this, he needed to make the solution more precise - an **Algorithm**
 
 **TURING MACHINE:**
-- Any individual Turing machine has a **machine table (set of instructions)**.
-- The machine can be in any finite number of different states.
-- The machine table will determine, what the machine will do:
+
+- An idealized machine that consists of:
+	1. an infinitely long piece of tape (**Turing-Tape**) divided into cells
+	2. a **Machine-Head**
+	3. Set of instructions (**Machine-Table**)
+- The "tape" being infinitely long => no storage restrictions => hence an ideal m/c
+- Each "cell" in the tape can contain (1) a single symbol, or (2) be blank
+- The tape runs through the "machine head", with a single cell under the head at a given instant
+- The head can carry out a limited number of operations:
+	1. delete a symbol in the cell
+	2. write a symbol in the cell
+	3. move the tape one cell to Left
+	4. move the tape one cell to Right
+- The *Turing machine* can be in any *finite number of different **states***.
+- The "machine table" will determine, what the machine will do:
 	1. when it encounters a given **symbol**
 	2. in a particular **cell**
 	3. depending upon its **internal state**
-- There is no ambiguity and no room for the machine to exercise “intuition” or “judgment.”
+- **BEAUTY of TURING MACHINE:**
+	- Its behaviour entirely determined by the machine-table (which can be mathematically represented by a *sequence of numbers*)
+	- Hence, There is no ambiguity and no room for the machine to exercise “intuition” or “judgment.”
 
 **OUTCOMES:**
 - Turing's paper contained a subtle proof that **Halting Problem cannot be solved**.
 - **Church-Turing thesis:** Anything that can be done in mathematics by an algorithm, can be done by Turing machine.
 
 **CONTRIBUTION to Cognitive Science:**
-- A model of computation that looked as if it might be a clue to how **information could be processed by the mind**.
+- A **"model of computation"** that looked as if it might be a clue to how **information could be processed by the mind**.
 - As theorists moved closer to the idea that **cognition involves processing information** it was an easy step to think about **information processing as an algorithmic process** along the lines analyzed by Turing.
 
 
 # (3) - Linguistics and the Formal Analysis of Language
+---
+
 
 Language usage:
 1. **hierarchically organized complex behavior** - Karl Lashley
 2. **can be analyzed in algorithmic terms** - due to the emergence of tansformational linguistics and the formal analysis of syntax.
 
 ## Syntactic Strutures (1957) - by Noam Chomsky
+---
+
 
 **"why" (rather than "how") languages work the way they do**
 
@@ -169,15 +209,21 @@ Provided a very clear example of **how to analyze (in algorithmic terms)**, the 
 
 
 # (4) - Information-Processing Models in Psychology
+---
+
 
 The emergence of information theory can be pinned down to a single event – the publication of an article entitled “A mathematical theory of communication” by Claude E. Shannon in 1948.
 
 Information-processing models became established in psychology through 2 famous publications:
 1. "The magical number seven, plus or minus two"- *article by George Miller* (1956)
 2. "The role of auditory localization in attention and memory span" - *paper by Donanld Broadbent* (1954).
-	- The paper presented 2 inflencial experiments, which led to the book: "Perception and Communication"
+	- The paper presented 2 inflencial experiments
+	- which led to the book: "Perception and Communication" - by Broadbent (1958)
+		- one of the first ***Information-Processing models** in **psychology***
 
 ## The magical number seven, plus minus two (1956) - George Miller
+---
+
 
 The tools of information theory can be applied to the study of the mind. One of the basic concepts of information theory is the **concept of an information channel**.
 **Perceptual systems are themselves information channels**. Example: Vision is a medium through which information is transmitted from the environment to the perceiver.
@@ -189,11 +235,20 @@ The tools of information theory can be applied to the study of the mind. One of 
 
 **EXPERIMENT**
 
-When the sequence is only one or two tones long, subjects never make mistakes. But performance falls off drastically when the sequence is six or more tones long. A similar phenonemon occurs when we switch from audition to vision and ask subjects to judge the size of squares or the length of a line.
+- Subjects were asked to assign numbers to pithces of tones 
+  Eg- (C <- 1, E <- 2, F# <- 3)
+- Then they were presented a sequence of tones and asked to identify them in terms of the assigned numbers. 
+  Eg- If they heard the seq. (E-C-C-F#-E) then correct resp would be (2-1-1-3-2)
+
+**OBSERVATIONS**
+
+- When the sequence is only one or two tones long, subjects never make mistakes.
+- But performance falls off drastically when the sequence is six or more tones long.
+- *A similar phenonemon occurs when we switch from audition to vision and ask subjects to judge the "size of squares" or the "length of a line".*
 
 **CONCLUSION**
 
-There seems to be an upper bound on the number of distinct items that can be processed simultaneously
+- There seems to be an upper bound on the number of distinct items that can be processed simultaneously
 
 **RELATION TO PSYCHOLOGY**
 
@@ -203,10 +258,12 @@ There seems to be an upper bound on the number of distinct items that can be pro
 - Miller pointed out, to return to a theme that has emerged several times already, ***natural language is the ultimate chunking tool***
 
 ## "The Role of Auditory Localization in Attention and Memory Span" (1954) and "Perception of Communication" (1958)
+---
 
-One of the first models of how sensory information is processed was developed by the British psychologist Donald Broadbent in his 1958 book Perception and Communication
 
-***The cocktail party phenomenon** - We manage to focus only on what we want to listen*
+One of the first models of **how sensory information is processe**d was developed by the British psychologist *Donald Broadbent* in his 1958 book "*Perception and Communication*"
+
+***The cocktail party phenomenon*** - *We manage to focus only on what we want to listen*
 
 **DICHOTIC LISTENING EXPERIMENTS**
 
@@ -221,21 +278,20 @@ Broadbent found that they performed best when they reported the stimuli ear by e
 **EXPLANATION using a Model**
 
 ![[Pasted image 20230121230046.png]]
-- Information comes through the **senses**
-- and passes through a **short-term store**
-- then passes through a **selective filter**. The selective filter screens out a large portion of the incoming information, selecting some of it for further processing. This is what allows us selectively to attend to only a portion of what is going on around us in the cocktail party.
-- Only information that makes it through the selective filter is *semantically interpreted*
-
-We can only attend to a single information channel at a time (assuming that each ear is a separate information channel) – and that the selection between information channels is based purely on physical characteristics of the signal.
-
-the selective filter is “programmed” by another system
-
-We are assuming that the system is pursuing a goal. What is programming the selective filter is information about the sorts of things that have led to that goal being satisfied in the past. 
-
-- Information that makes it through the selective filter goes into what Broadbent calls the **limited capacity channel**.
-- From the limited capacity channel information can go either into:
+1. Information comes through the **senses**
+2. and passes through a **short-term store**
+3. then passes through a **selective filter**.
+	- The selective filter screens out a large portion of the incoming information. Filtered-out info is quickly decayed. 
+	  *This is what allows us selectively to attend to only a portion of what is going on around us in the cocktail party*.
+	- Only information that makes it through the selective filter is "*semantically interpreted*"
+4. Information that makes it through the selective filter goes into what Broadbent calls the **limited capacity channel**.
+5. From the limited capacity channel information can go either into:
 	- the **longterm store**, OR
 	- on to **further processing and eventually into action**, OR
 	- it can be recycled back into the **short-term store**
 
-
+> We can only attend to a single information channel at a time (assuming that each ear is a separate information channel) – and that the selection between information channels is based purely on physical characteristics of the signal.
+> 
+> the selective filter is “programmed” by another system
+> 
+> We are assuming that the system is pursuing a goal. What is programming the selective filter is information about the sorts of things that have led to that goal being satisfied in the past. 
