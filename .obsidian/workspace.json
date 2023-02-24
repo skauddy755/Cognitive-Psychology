@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a0e55f401bb12e7",
+        "id": "933abffa4f496e1a",
         "type": "tabs",
         "children": [
           {
-            "id": "0ecf34dea2acb33a",
+            "id": "133f4d684003b144",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/Memory - Encoding and Storage.md",
+                "file": "NOTES/Memory - Retention and Retrieval.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/Memory - Encoding and Storage.md",
+                "file": "NOTES/Memory - Retention and Retrieval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/Memory - Encoding and Storage.md",
+                "file": "NOTES/Memory - Retention and Retrieval.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/Memory - Encoding and Storage.md"
+                "file": "NOTES/Memory - Retention and Retrieval.md"
               }
             }
           }
@@ -148,15 +148,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ecf34dea2acb33a",
+  "active": "133f4d684003b144",
   "lastOpenFiles": [
-    "NOTES/Untitled.md",
     "NOTES/Memory - Encoding and Storage.md",
+    "NOTES/Memory - Retention and Retrieval.md",
+    "NOTES/Untitled.md",
     "NOTES/Experimental methods in Cognitive Science.md",
     "NOTES/The Prehistory of Cognitive Science.md",
     "READINGS/experimental method.pdf",
     "NOTES/Representation of Mental Images.md",
-    "NOTES/Memory - Retention and Retrieval.md",
     "NOTES/weekly_readings.md",
     "COMPILED - NOTES/Experimental methods in Cognitive Science.pdf",
     "COMPILED - NOTES/The Prehistory of Cognitive Science.pdf"

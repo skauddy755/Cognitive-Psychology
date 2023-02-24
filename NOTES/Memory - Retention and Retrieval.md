@@ -15,7 +15,7 @@
 	- Controversy over Interference and Decay
 	- An inhibotory explanation of Forgetting
 	- Redundancy protects against Interference
-- Retrieval and Interference
+- Retrieval and Inference
 	- Plausible retrieval
 	- The interaction of Elaboration and Inferential Reconstruction
 	- Eyewitness testimony and False Memory Controversy
@@ -35,7 +35,7 @@
 
 The **temporal region** (particularly the ***hippocampal region***) play role in **retention** of memory
 
-> Experiments:
+> *Experiments:*
 > 
 > **Penfield (1959)**
 > - electrial stimulation to recall forgotten mem.
@@ -689,6 +689,7 @@ Eg- while trying to remember name of some old classmate, we try to remember othe
 
 
 # Hippocampal Formation and Amnesia
+---
 
 - Damage to the hippocampal area also produces severe amnesia (memory loss) in humans.
 
@@ -700,6 +701,7 @@ Eg- while trying to remember name of some old classmate, we try to remember othe
 
 
 # Implicit vs Explicit Memories
+---
 
 British musicologist **Clive Wearing**, who suffered herpesviral encephalitis that attacked his brain particularly hippocampus.
 
@@ -795,9 +797,52 @@ This illustrates the distinction between:
 ## Procedural Memory
 ---
 
+Implicit memory is defined as memory without conscious awareness.
+- These memories can cause priming effects,
+- can also involve knowledge of how to perform a task
+
+An important type of Implicit memory involves **Procedural knowledge** eg- *riding a bike*
+
+### Berry and Broadbent 1984
+
+- **Setting & Task:** participants to control a virtual (hypothetical) sugar factory. They have to vary W (workforce) and the system will output the production S for that month. Oxford graduates were given 60 trials.
+- **Obs:** They got proficient at control, but when asked they could report any rule. They claimed that they had "some sort of intuition" or "felt right"
+- **Conclusion:** Participants were able to acquire the implicit knowledge without acquiring the corresponding explicit knowledge.
+- ***Amnesic patients are also capable of learning this information***
+
+### Sequence Learning - Curran 1995
+
+- **Setting & Task**: there were 4 lights with a button under each of them. Lights would flash in (1)  in some sequence (2) random order. Particpants have to press the buttons in the same order.
+- **Obs:** People are faster with a repeating sequence.
+- **Ques:** Are the participants aware of the repeating sequence? (does it play a role?)
+- **Ans:** in some Yes, in some not. However, that does not make a difference. In any case they are faster in case of "*repeating sequence*".
+- ***Amnesic also show advantage in repeating sequence***
+	- This means hippocampus is not critical to this skill
+
+> A set of *subcortical structures*, collectively called the **basal ganglia (long known to be critical for motor controls)** does appear to be critical for sequence learning.
+> 
+> They have been shown to be active during the learning of a number of skills, including sequence learning
+> 
+> All in all, the evidence is pretty compelling that procedural learning involves structures different from those involved in explicit learning
+
+***Procedural learning is another type of implicit learning and is supported by the "basal ganglia***"
+
+---
+
+# CONCLUSION - The Varieties of Memory
+---
 
 
+**Squire (1987)** proposed that there are many different varieties of memory.
 
+![[Pasted image 20230224221549.png]]
 
-***Procedural learning is another type of implicit learning and is supported by the basal ganglia***
+- **Declarative memory** - factual memories - explicitly recall - hippocampus
+	1. **Episodic memory** - information about where and when they were learned (Ch-6,7)
+	2. **Semantic memory** - general knowledge of the world (Ch-5)
+- **No-declarative memory** - implicit mem. - basal ganglia & cerebellum
+	1. Procedural skills
+	2. Priming
+	3. Conditioning
+	4. Non-associative
 
