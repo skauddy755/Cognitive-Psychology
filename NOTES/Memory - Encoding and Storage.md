@@ -1,6 +1,8 @@
 [[weekly_readings]] #week-4 
 
 # Contents
+---
+
 
 > Taken from [[John Anderson - Cognitive Psychology and Its Implications (2015, Freeman_Worth) - libgen.li.pdf]]
 > Ch-6
@@ -26,6 +28,8 @@
 	- Flashbulb Memories
 
 # Memory and Brain
+---
+
 
 Two main regions of brain involved in memory:
 1. **storage of new memories** - A region within the Temporal Cortex (hippocampus & surrounding regions)
@@ -35,11 +39,15 @@ Two main regions of brain involved in memory:
 
 
 # Sensory Memory
+---
+
 
 - Before reaching the structures in Figure 6.1, information must be processed by perceptual systems, and these systems display a brief memory for the incoming information.
 - **Sensory information** is held *briefly* in **cortical sensory memories** so that we can *process* it.
 
 ## Visual Sensory Memory (iconic memory)
+---
+
 
 #### Earlier Experiments (whole-report procedure)
 
@@ -62,6 +70,8 @@ so the data must have been saved in some kind of ***short-term visual memory (se
 **Iconic Memory:** while info is present in this store, subject can attend to it and report it, but if its is not attended and not processed further, then it will be lost
 
 ## Auditory Sensory Memory (echoic memory)
+---
+
 
 Experiments similar to that of Sperling:
 - Moray, Bates, & Barnett, 1965
@@ -70,19 +80,19 @@ Experiments similar to that of Sperling:
 
 #### Sams, Hari, Rif, and Knuutila (1993)
 
-One of the more interesting *measures of auditory sensory memor*y involves an **ERP measure** called the "mismatch negativity"
-
-**Setting:** presented one tone followed by the other at various intervals.
-**Observation:**
-A mismatch-negativity was produced when:
-- Delay < 10s, and
-- second tone was different from prev tone
-The source of this neural response ws near the "primary auditory cortex"
-**Conclusion:**
-There is some kind of auditory sensory mem
+- One of the more interesting *measures of auditory sensory memor*y involves an **ERP measure** called the "mismatch negativity"
+- **Setting:** presented one tone followed by the other at various intervals.
+- **Observation:**
+	- A mismatch-negativity was produced when:
+		- Delay < 10s, and
+		- second tone was different from prev tone
+	- The source of this neural response ws near the "primary auditory cortex"
+- **Conclusion:** There is some kind of auditory sensory mem
 
 
 # Short-Term Memory
+---
+
 
 > ***Overview***
 > 
@@ -100,7 +110,8 @@ There is some kind of auditory sensory mem
 > Study by **Glenberg, Smith, and Green (1977)** proved the above argument
 
 
-## Theory on STM by Atkinson and Shiffrin (1968)
+### Theory on STM by Atkinson and Shiffrin (1968)
+
 
 - Information coming in from the environment tends to be held in **transient sensory stores** from which it is *lost unless attended to*.
 - "*Attended information*" went into an **intermediate short-term memory system** where it had to be "*rehearsed*" before it could go into a **relatively permanent long-term memory**
@@ -108,7 +119,8 @@ There is some kind of auditory sensory mem
 - If item left STM before its representation was made in LTM, that item will be lost
 - ![[Pasted image 20230219132454.png]]
 
-## Experiment by Shepard and Teghtsoonian (1961)
+### Experiment by Shepard and Teghtsoonian (1961)
+
 
 **Setting:**
 presented participants with a long sequence of 200 three-digit numbers.
@@ -126,16 +138,16 @@ recall for no. with Long-lags would reflect the amt. of info that got into LTM
 Due to the setting, no time to rehearse
 STM had a limited capacity, so new info pushed out the old info
 
-## Experiment by Rundus (1971)
+### Experiment by Rundus (1971)
 
 - Asked participants to rehearse out loud and showed that the more participants rehearsed an item, the more likely they were to remember it.
 
-## Depth of processing - by Craik and Lockhart (1972)
+### Depth of processing - by Craik and Lockhart (1972)
 
 - Argued that what was critical was not how long information is rehearsed, but rather the depth to which it is processed.
 - Rehearsal improves memory **ONLY IF** the material is rehearsed in a deep and meaningful way.
 
-## Experiment by Glenberg, Smith, and Green (1977)
+### Experiment by Glenberg, Smith, and Green (1977)
 
 **Setting:**
 - participants to study a four-digit number for 2 s, then rehearse a word for 2, 6, or 18 s, and then recall the four digits
@@ -152,8 +164,12 @@ STM had a limited capacity, so new info pushed out the old info
 
 
 # Working Memory
+---
+
 
 ## Baddeley's Theory of Working Memory
+---
+
 
 theory of the rehearsal processes that did not tie them to storage in long-term memory
 
@@ -188,6 +204,8 @@ The crucial factor appears to be how long it takes to say the word
 - We can keep1.5 to 2.0 seconds *worth of material rehearsed* in the articulatory loop.
 
 ## The Frontal cortex and the Primate Working Memory
+---
+
 
 The frontal cortex gets larger in the progression from lower mammals, such as the rat, to higher mammals, such as the monkey, and it shows an even greater development between the monkey and the human
 
@@ -213,6 +231,8 @@ Term first used by Baddeley himself, along with his colleagues Graham Hitch and 
 
 
 # Activation and Long Term Memory
+---
+
 
 Working mem. gets info from:
 1. (Not ony) the environment
@@ -238,6 +258,8 @@ Working mem. gets info from:
 - The ability to bolster our working memory with long-term memory information helps explain why the memory span for meaningful sentences is about twice the span for unrelated words
 
 ## Activation Calculations
+---
+
 
 > **Terminologies used** - ACT (Adaptive control of thought) - J.R. Anderson, 2007
 
@@ -268,10 +290,12 @@ where,
 > S(j, i) = strength of association between potential prime j and potential response i
 
 ## Spreading Activation
+---
+
 
 Spreading activation is the term often used to refer to the process by which currently attended items can make associated memories more available
 
-#### Meyer and Schvaneveldt 1971
+### Meyer and Schvaneveldt 1971
 
 **Setting:** presented pairs of words maybe actual or non-sense.
 **Task:** To judge whether both items were actual words or not
@@ -283,6 +307,8 @@ Interest in +ve pairs - Participants were 85 ms faster on the related pairs
 explained by a spreading-activation analysis. When the participant read the first word in the related pair, activation would spread from it to the second word, making that word easier to judge
 
 # Practice and Memory Strength
+---
+
 
 - Spreading activation concerns how the context can make some memories more available
 - However, some memories are just more available (eg- names of ur close friends)
@@ -290,8 +316,10 @@ explained by a spreading-activation analysis. When the participant read the firs
 - Each time we use a memory trace, it increases a little in strength
 
 ## Power Law of Learning
+---
 
-#### Pirolli and Anderson 1985
+
+### Pirolli and Anderson 1985
 
 Taught participants a set of facts and had them practice the facts for 25 days
 ![[Pasted image 20230219201334.png]]
@@ -312,6 +340,8 @@ This is called the **power function**
 - As memory traces become stronger, they can reach higher levels of activation and so can be retrieved more rapidly
 
 ## Neural Correlates of the Power Law of Learning
+---
+
 
 **Long-term potentiation (LTP)**, which occurs in the hippocampus and cortical areas. When a pathway is stimulated with a high-frequency electric current, cells along that pathway show increased sensitivity to further stimulation
 
@@ -328,14 +358,26 @@ The relationship between the hippocampus and prefrontal cortex is interesting
 3. R. L. Buckner, personal communication, 1998
 	- Patients with hippocampal damage show the same prefrontal activation as normal people do, but because of the hippocampal damage, they fail to store these memories
 
+### Experiment by Wagner et al and Brewer et al
+
+- role of the prefrontal cortex in forming new memories in normal participants
+	- *Wagner*: on memory for **words** - left parietal region;
+	- *Brewer*: on memory for **images** - right parietal region
+- **Experiment:** participants memoriezed some items (words | images). They remembered some of the items and forgot others
+- **Observations:** Plot Hemodynamic response of prefrontal cortex as a function of t (time from receive of stimulus). Reached a maxima at 5s. ***maxima for remembered higher than that for forgotten***
+- ![[Pasted image 20230224191433.png]]
+- **Conclusion:** Activation in prefrontal regions appears to drive long-term potentiation in the hippocampus. This activation results in the creation and strengthening of memories
 
 # Factors influencing Memory
+---
+
 
 ## (1) Elaborative Processing
+---
 
 **Elaborative processing** involves thinking of information that relates to and expands on the information that needs to be remembered
 
-#### Series of Experiments by B. S. Stein and Bransford (1979)
+### Series of Experiments by B. S. Stein and Bransford (1979)
 
 **Setting and Task:**
 - Participants asked to remember 10 sentences
@@ -354,14 +396,30 @@ The relationship between the hippocampus and prefrontal cortex is interesting
 - Hence, does not matter whether the participants themselves generated the elaboration or not
 
 ## (2) Techniques for Studying Textual Material
+---
 
 Find answers to advances questions before reading the text
 
+### Experiment by Frase 1975
+
+- **Setting & Task:**
+	- Pariticipants div into 2 groups: G-1: given advanced questions, G-2: not given "advanced-questions"
+	- They were then asked to read the text
+	- Then asked "test-questions" (relevant | irrelevant - depending on its relation to advanced questions)
+- **Observations:**
+	- In general, G-1 performed better than G-2
+	- G-1 performed slightly worse on irrelevant test-questions
+- **Explanations:**
+	- Answering the questions should have forced them to process the text more carefully and to think about its implications.
+
+***PQ4R: (Preview, Questions, Read, Reflect, Recite, Review)***
+
 ## (3) Incidental vs Intentional Learning
+---
 
 It does not seem to matter whether people intend to learn the material; what is important is how they process it
 
-#### Experiment by Hyde and Jenkins 1973
+### Experiment by Hyde and Jenkins 1973
 
 **Setting:**
 - List of words presented.
@@ -377,6 +435,7 @@ It does not seem to matter whether people intend to learn the material; what is 
 
 
 ## (3) Flashbulb Memories
+---
 
 **Flashbulb memories:** events so important that they seem to burn themselves into memory forever
 

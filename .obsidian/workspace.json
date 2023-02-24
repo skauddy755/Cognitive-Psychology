@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ccca91c2fbc94338",
+        "id": "7a0e55f401bb12e7",
         "type": "tabs",
         "children": [
           {
-            "id": "b0636c415f780494",
+            "id": "0ecf34dea2acb33a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/Memory - Encoding and Storage.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442
+    "width": 442,
+    "collapsed": true
   },
   "right": {
     "id": "c56b91f657c891f5",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NOTES/Memory - Encoding and Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NOTES/Memory - Encoding and Storage.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NOTES/Memory - Encoding and Storage.md"
+              }
             }
           }
         ],
@@ -139,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "832a29fc5756f4a2",
+  "active": "0ecf34dea2acb33a",
   "lastOpenFiles": [
-    "NOTES/The Prehistory of Cognitive Science.md",
-    "NOTES/weekly_readings.md",
-    "NOTES/Representation of Mental Images.md",
-    "NOTES/Memory - Encoding and Storage.md",
-    "NOTES/Memory - Retention and Retrieval.md",
-    "COMPILED - NOTES/Experimental methods in Cognitive Science.pdf",
-    "COMPILED - NOTES/The Prehistory of Cognitive Science.pdf",
     "NOTES/Untitled.md",
+    "NOTES/Memory - Encoding and Storage.md",
     "NOTES/Experimental methods in Cognitive Science.md",
-    "BOOKS/John Anderson - Cognitive Psychology and Its Implications (2015, Freeman_Worth) - libgen.li.pdf"
+    "NOTES/The Prehistory of Cognitive Science.md",
+    "READINGS/experimental method.pdf",
+    "NOTES/Representation of Mental Images.md",
+    "NOTES/Memory - Retention and Retrieval.md",
+    "NOTES/weekly_readings.md",
+    "COMPILED - NOTES/Experimental methods in Cognitive Science.pdf",
+    "COMPILED - NOTES/The Prehistory of Cognitive Science.pdf"
   ]
 }
