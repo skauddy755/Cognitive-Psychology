@@ -253,4 +253,98 @@ C. Lincoln freed the slaves.
 #### Demostration by Bransford and Franks (1971)
 
 - **Objective:** to demostrate the psychological reality of propositional units
-- **Task:** 
+- **Study:** participants studied 12 sentences, including the following:
+	- ![[Pasted image 20230329150347.png]]
+	- The **propositional units** in these sentences come from either of the 2 sets of 4 propositions.
+	- ![[Pasted image 20230329150512.png]] ![[Pasted image 20230329150526.png]]
+- **Test:** recognition memory was tested for following three kinds of sentences:
+	1. Old: actually studied
+	   (*The ants in the kitchen ate the jelly*)
+	2. New: Not studied but consisted of the propositions that occured in studied sentences
+	   (*The ants ate the sweet jelly*)
+	3. Noncase: Neither studied nor contains those propositions
+	   (*The ants ate the jelly beside the woods*)
+- **Observations:**
+	- Participants had almost no ability to discriminate between **Old** and **New**, and said they had actually heard either
+	- They were however confident that they did not study the **Noncase**.
+- **Conslusions:**
+	- Although people remember the propositions they encounter, they are quite insensitive to the actual combination of those propositions
+
+
+## Amodal versus Perceptual Symbol Systems
+---
+
+*As per Barsalou,*
+1. **Amodal Symbol System** (eg- propositional representations)
+	- Elements within the system are inherently non-perceptual.
+	- The original stimulus may be a picture or a sentence, but the representation is abstracted away from the verbal or visual modality
+	- Given this abstraction, one would predict that participants would be unable to remember the exact words or exact picture.
+2. **Perceptual Symbol System** (a hypothesis by Barsalou)
+	- Information is represented in terms specific to a particular perceptual modality (visual, auditory, ...)
+	- It is an extension of **Paivio's (1971, 1986) dual code theory** which claimed that:
+		- info is rep in combined verbal + visual codes
+		- *Paivio suggested when we hear a sentence, we also develop a visual image of what it describes. I we later remember only the visual image and not the sentence, we will remember what the sentence was about but not the exact words*
+		- Does not predict that which mem for visual will be better than verbal. Depends on the relative attention.
+
+#### Holmes, Waters & Rajaram (1998)
+
+- **Objective:** A replication of Bransford and Franks (1971) study
+- **Task:** same as before but in addition participants asked to count the number of letters in the last word of each sentence.
+- **Observations:** Increased ability to discriminate sentences studied and not studied but with similar meaning.
+- **Interpretations:** counting words increased the attention to the wording.
+
+
+> But how can an **abstract concept** (such as *honesty*) be represented in a **purely perceptual cognitive system**?
+
+#### Barsalou, Simmons, Barbey, and Wilson (2003)
+
+- *cited evidence that when people understand a sentence, they come up with a perceptual representation of that sentence.* For example: `Stanfield and Zawan (2001)`
+- *cited **neuroscience studies** showing that concepts are represented in brain areas similar to those that process perceptions*
+
+#### Stanfield and Zwaan (2001)
+
+- **Study:** Participants read a sentence a sentence about a nail being pounded into either the wall or floor.
+- **Test:** They were shown pictures of a nail being pounded either vertically or horizontally. And asked whether the object in the picture had been mentioned in the sentence heard earlier or not.
+- **Observations:** Response was quicker when the orientation in the sentence matched with that in the picture.
+- **Conclusions:** Thus, their representation of the sentence seemed to contain this perceptual detail
+
+
+# Embodied Cognition
+---
+
+> Barsalou’s perceptual symbol hypothesis is an instance of the growing emphasis in psychology on understanding the contribution of the environment and our bodies to shaping our cognition
+> 
+> As Thelen (2000) describes the viewpoint:
+>
+> ![[Pasted image 20230329154438.png]]
+
+
+**Embodied Cognition** emphasizes the ***contribution of "motor action"*** and how it connects us to the environment
+
+#### Glenberg (2007)
+
+- argues that our understanding of language often depends on convertly acting out what the language describes.
+- He points to an *fMRI study*
+
+#### fMRI Study by - Hauk, Johnsrude & Pulvermuller (2004)
+
+- They recorded brain activation while people listened to verbs *like - lick, pick or kick*
+- They looked for activity along mortex cortex of various regions *like - face, arm, pick*
+- **Obs:** there was greater activation in the part of the mortor cortex that would produce the action.
+- ![[Pasted image 20230329160043.png]]
+
+> part of our understanding of someone performing an action is our ability to relate to our own motor system so that we can mimic the action.
+
+
+#### How info is related between different perceptual and motor modalities
+
+![[Pasted image 20230329155529.png]]
+
+1. **Multimodal Hypothesis:** There are mechanisms for translation between each modality
+2. **Amodal Hypothesis:** Each mdality can be translated back and forth to a central meaning representation (which is more abstract).
+
+The amodal hypothesis holds that this information is retained in the central meaning system. The multimodal hypothesis holds that the person has converted the information from the modality of the presentation to some other modality.
+
+
+# Conceptual Knowledge
+---
