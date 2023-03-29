@@ -54,3 +54,19 @@ From: [[John Anderson - Cognitive Psychology and Its Implications (2015, Freeman
 Ch-7 (Human Memory: Retention and Retrieval)
 Summary: #week-5 [[Memory - Retention and Retrieval]]
 
+# Week-6&7 (2023-02-13 to 2023-02-26)
+
+## Main Readings:
+
+From: [[John Anderson - Cognitive Psychology and Its Implications (2015, Freeman_Worth) - libgen.li.pdf]]
+Ch-5 (Representation of Knowledge)
+Summary: #week-6-7 [[Representation of Knowledge]]
+
+# Week-8 (2023-03-13 to 2023-03-19)
+
+## Main Readings:
+
+From: [[Language and Thought.pdf]]
+Ch-5 (Representation of Knowledge)
+Summary: #week-8 [[Language and Thought]]
+
