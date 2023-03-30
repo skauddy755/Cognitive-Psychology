@@ -595,3 +595,73 @@ Similar to objects, events can also have categories:
 ## (3) Abstraction Theories versus Exemplar Theories
 ---
 
+##### Diasdvantage of the previous theories (Semantic network and Schemas)
+
+1. **Semantic Networks** do not capture the graded character of categorical knowledge such that different instances are better or worse members of a category.
+2. **Schemas** can do this, but it has never been clear in detail how to relate them to behavior.
+
+##### Abstraction vs Exemplar Theories
+
+1. **Abstraction Theories** *hold that* we can actually abstract general properties of a category from specific instances we have studied that those we store as abstractions
+2. **Exemplar Theories** *hold that*, we can store only specific instances and that we infer general properties form these instances.
+
+> **DEBATE:** 
+> British philosophers **John Locke** and **George Berkeley**.
+> - Locke claimed that he had an abstract idea of a triangle that was neither oblique nor right-angled, neither equilateral, isosceles, nor scalene, but all of these at once,
+> - while Berkeley claimed it was simply impossible for himself to have an idea of a triangle that was not the idea of some specific triangle.
+
+
+##### ABSTRACTION THEORIES
+
+- **Schema Theory** is an example of abstraction theory
+- **Prototype Theories (Reed 1972)** assumes that people store a single prototype of what an instance of a category is like and judge specific instances in terms of similarity to that prototype
+- **(Hayes Roth & Hayes-Roth 1977) (J. R. Anderson 1991)** store a representation that also encodes some idea of the allowable variation around the prototype
+
+##### EXEMPLAR THEORIES
+
+- exemplar theories could not be more different.
+- We store specific instances rather than any general concept. Hence at the time of judging, we compare a specific test instance, to the other specific training instances that we have in our store.
+- *how typical a specific bird is in the general category of birds, we compare the specific bird to other specific birds and make some sort of judgment of average difference*
+
+##### SIMILARITIES IN THE PREDICTIONS BY ABSTRACTION AND EXEMPLAR
+
+- Both types predict that it is easier/better to process central members of a category
+	1. **Abstraction Theories:** since central members are more close to the abstract representations of a concept.
+	2. **Exemplar Theories:** since, central members will be more similar, on average, to other instance of a category.
+
+##### DIFFERENCES IN THE PREDICTIONS BY ABSTRACTION AND EXEMPLAR
+
+- Unlike Abstract Theories, Exemplar Theories predict that specific instances that some might have encountered should have effects that go beyondany effect of some representation of the central tendency.
+	- ***Example:*** Although we may think that dogs in general bark, we may have experienced a peculiar-looking dog that did not, and we would then tend to expect that another similar-looking dog would also not bark.
+	- Such effects of specific instances can be found in some experiments (e.g., Medin & Schaffer, 1978; Nosofsky, 1991).
+	  
+- people may infer tendencies that are not in the specific instances (Elio & Anderson, 1981).
+	- ***Example:*** if we have encountered many dogs that chase balls and many dogs that bark at the postman, we might consider a dog that both chases balls and barks at the postman to be particularly typical. However, we may never have observed any specific dog both chasing balls and barking at the postman.
+
+##### COMBINATION OF ABSTRACTION AND EXEMPLAR
+
+- According to **Ashby & Maddox (2011)**, it seems people may sometimes use abstractions and at other times use instances to represent categories.
+- Evidence of this expanded view comes from *Neuroscience studies*
+- **Smith, Patalano, and Jonides (1998)**
+	- **Task:** They had participants to learn to classify a set of 10 animals. Divided into 2 groups:
+		- G1: encouraged to use rules such as "An animal is from Venus if it has ..."
+		- G2: encouraged to simply memorize the categories from 10 animals.
+	- **Observations:**
+		- G1: (who used abstract rules): Regions in prefrontal cortex tended to be activated.
+		- G2: (who memorized instances): Regions in the occipital visual areas in cerebellum were activated
+- **Smith and Grossman (2008)**
+	- review evidence that, using exemplars also activate brain regions supporting memory (such as *"hippocampus"*)
+- Although *Smith et al* identified an **abstract system the involves explicit reasoning**,
+	- there is also evidence for **abstract systems that involve unconscious pattern recognition**
+	- Example: Our ability to distinguish "Cats" from "Dogs" without being able to articulate any features that distinguish them.
+	- **Ashby & Maddox (2005)** argued that this system depends on the *"basal-ganglia"* (related to implicit category learning)
+
+
+
+## (4) Natural Categories and their Brain Representations
+---
+
+
+
+
+***There are differences in the ways people think about biological categories and artifact categories and differences in the brain regions that support these two types of categories***
