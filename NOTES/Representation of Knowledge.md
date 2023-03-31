@@ -454,7 +454,7 @@ Any research on Categorization has focussed on:
 > - Event Concepts
 
 
-### Psychological Reality of Schemas
+### (2.1) Psychological Reality of Schemas
 ---
 
 People will infer that an object has the default values for its category, unless they explicitly notice otherwise
@@ -474,7 +474,7 @@ People will infer that an object has the default values for its category, unless
 	- person’s memory for the properties of a location is strongly influenced by that person’s default assumptions about what is typically found in the location.
 
 
-### Degree of Category Membership
+### (2.2) Degree of Category Membership
 ---
 
 - One of the important features of schemas is that, they **allow variations** in the objects of the schema.
@@ -541,7 +541,7 @@ People will infer that an object has the default values for its category, unless
 
 
 
-### Event Concepts
+### (2.3) Event Concepts
 ---
 
 Similar to objects, events can also have categories:
@@ -661,7 +661,78 @@ Similar to objects, events can also have categories:
 ## (4) Natural Categories and their Brain Representations
 ---
 
+##### Laboratory and Natural Categories
+
+- **Laboratory-defined categories** display the same sort of fuzzy boundaries that natural categories do and share a number of other attributes,
+- But, **Natural categories** arise over a much longer time than the time spent on a typical laboratory task.
+	- This leads to people developing biases about such categories:
+		1. Living Things
+		2. Artifacts
+	- Most researches documenting this bias has been done with **primary-school children**
+	- For instances,
+		1. If primary-school children are told that:
+			- a human has a spleen, they will conclude that dogs have spleens too (Carey, 1985)
+			- a red apple has pectin inside, they will assume that green apples also have pectin (Gelman, 1988)
+		2. If children are told that an artifact such as a cup is made of ceramic, they do not believe that all cups are made of ceramic
+		3. If told that a cup is used for “imbibing” (a term they do not know), they believe that all cups are used for imbibing.
+		4. If told that they can “repast” with a particular red apple, they do not necessarily believe that they can repast with a green apple
+	- The previous statements can be grouped as:
+		1. (cat: **Natural**, type: **part**)
+		2. (cat: **Artifact**, type: **part**)
+		3. (cat: **Artifact**, type: **action**)
+		4. (cat: **Natural**, type: **action**)
+	- In summary, children come to believe that:
+		- From (1) all things in a **biological** category have the same **parts** (like pectin in apples)
+		- From (3) all things in an **artifact** category have the same **function** (like imbibing for cups)
+
+##### Cognitive Neuroscience perspective
+
+- Cognitive neuroscience data suggest that biological and artifact categories are represented differently in the brain
+- Much of the evidence comes from patients with **semantic dementia** (deficit in categorical knowledge)
+	1. Damage to **temporal lobes** - defecit in knowledge of **Biological categories**
+		- Warrington & Shallice, 1984; Saffran & Schwartz, 1994
+		- They were unable to recognize "duck" but could only say that it was an "animal"
+		- However, knowledge about artifacts ("tools", "furnitures") were unaffected
+	2. Damage to **frontoparietal lesions** - defecit in knowledge of **artifact categories**
+		- but unaffected in their processing of biological categories
+- **Warrington & Shallice, 1984; Farah & McClelland, 1991**
+	- Suggested that, these dissociations occur because:
+		1. **Biological** categories are more associated with **perceptual features** such as shape, *whereas*
+		2. **artifacts** are more associated with the **actions** that we perform with them
+- **Farah & McClelland**
+	- developed computer simulation model of this dissociation that learns associations among words, pictures, visual semantic features, and functional semantic features.
+	- **TASK and OBSERVATIONS:**
+		- By **selectively damaging the visual features** in their computer simulation,
+			- They were able to produce a **deficit in knowledge of living things**; *and*
+		- By **selectively damaging the functional features**,
+			- They were able to produce a **deficit in knowledge of artifacts**.
+	- **CONCLUSIONS:**
+		- Thus, loss of categorical information in such patients seems related to loss of the feature information that defines these categories.
+- **Brain-imaging data also seem consistent with this conclusion (A. Martin, 2001)**
+	- Processing of both animals and tools activates regions of the **temporal cortex**,
+	- But the tool regions tend to be located above (superior to) the animal regions.
+	- There is also activation of **occipital regions** (visual cortex) when processing animals.
+	- In general, the evidence seems to point to:
+		1. A greater visual involvement in the representation of animals
+		2. A greater motor involvement in the representation of artifacts.
+
+##### Caramazza, 2000 - A DEBATE
+
+- There is some debate in the literature over whether the real distinction is between
+	- **natural categories** and **artifacts** *or between*
+	- **visual-based** and **motor-based** categories
+
+##### "Mind Reading"
+
+- ![[Pasted image 20230331212356.png]]
+- Although temporal lobe plays a critical role in representation of natural categories.
+- There is evidence that knowledge is distributed in the entire brain.
+- **Cherkassky, Aryal, and Mitchell (2010)**
+	- An fMRI study of brain representations of common words - *(hammer, tomato, house*).
+	- There were regions activated throughout the brain depending on features of the word.
+	- Served the basis of an impressive *60 Minutes report, “Mind Reading”*, where these researchers were able to predict what words a person was reading.
 
 
+> ***There are differences in the ways people think about biological categories and artifact categories and differences in the brain regions that support these two types of categories***
 
-***There are differences in the ways people think about biological categories and artifact categories and differences in the brain regions that support these two types of categories***
+
