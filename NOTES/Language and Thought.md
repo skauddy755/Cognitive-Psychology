@@ -362,3 +362,57 @@ More recent work has continued to cast doubt on the linguistic determinism theor
 ## Count versus Mass Nouns
 ---
 
+> Language also affects perception and interpretation in some cases.
+
+
+For example, consider the distinction between **objects** and **substances**.
+- In English, So-called **"count nouns"** refer to entities, objects, and kinds. We can say “one horse, two horses, five cats, and 13 cakes”.
+- On the other hand, **"mass nouns"** typically denote entities that are not considered individually. We might say “a pile of leaves”, “a dash of salt”, or “a lot of mud”.
+
+#### Study by Soja et. al (1991)
+
+- **Objective:**
+	- When we acquire the ability to tell the difference between objects and substances. Do children learn to do this through exposure to their native language?
+- **Task:**
+	- English Speaking 2 year olds were shown objects that were given an arbitrary name.
+	- They were then asked to pick out similar objects to the one they had just been shown and given a name for.
+	- *Example*:
+		- "This is my blicket". "Can you show me some more blickets?"
+- **Observations:**
+	- In extending these words to new displays, two-year-olds showed a distinction between object and substance.
+	- When the sample was a **hard-edged solid object**, they extended the new word to all objects of the **same shape**, even when made of a different material.
+	- When the sample was a **non-solid substance**, they extended the word to **other-shaped puddles of that same substance** but **not to shape matches made of different materials**.
+- **Interpretation & Conclusion:**
+	- This suggests that the distinction may be acquired via language, because both the *object* and the *term* were new.
+
+
+## Linguistic Differences in Time perception
+---
+
+A final example of how language affects the thinking process is demonstrated in a study by Lera Boroditsky
+
+#### Lera Boroditsky (2001)
+
+- **Background:**
+	- She noted that across different languages and cultures there are differences in the metaphors that people use to talk about time.
+	- English Speakers: Time is Horizontal
+	- Mandarin Speakers: Time is Vertical
+- **Priming:**
+	- Subjects were first shown a prime to orient them to the horizontal or vertical dimension.
+- **Task:**
+	- They were then asked to either confirm or disconfirm temporal propositions (eg: November comes before December).
+- **Expectations:**
+	- Boroditsky reasoned that if a prime activated a vertical metaphor, and you spoke a language that encouraged thinking about time in a vertical dimension, you should be faster in judging the temporal proposition.
+- **Observations:**
+	- After seeing a horizontally oriented prime, English speakers were faster to confirm or disconfirm temporal propositions compared to when they had seen the vertical prime.
+	- She found the reverse effect for Mandarin speakers.
+- **Conclusion:**
+	- This suggests that language differences may predict aspects of temporal reasoning by speakers.
+- **Subsequent Studies:**
+	- Boroditsky trained English-speaking subjects to think about time vertically, giving them examples of vertical metaphors.
+	- In this case, after the training, the English speakers exhibited the vertical rather than the former horizontal priming effect.
+- **Contribution:**
+	- This study shows a clear **impact of language on thought**
+	- It is **not strong evidence for linguistic determinism** because the native language does not seem to determine how time is perceived.
+
+
