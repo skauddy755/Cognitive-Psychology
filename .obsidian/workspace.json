@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/Representation of Knowledge.md",
+                "file": "NOTES/Language and Thought.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442
+    "width": 442,
+    "collapsed": true
   },
   "right": {
     "id": "c56b91f657c891f5",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/Representation of Knowledge.md",
+                "file": "NOTES/Language and Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/Representation of Knowledge.md",
+                "file": "NOTES/Language and Thought.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/Representation of Knowledge.md"
+                "file": "NOTES/Language and Thought.md"
               }
             }
           }
@@ -149,6 +150,14 @@
   },
   "active": "4ba0e863eed2acd0",
   "lastOpenFiles": [
+    "NOTES/attachments/Pasted image 20230413230515.png",
+    "NOTES/Memory - Encoding and Storage.md",
+    "NOTES/Language and Thought.md",
+    "NOTES/weekly_readings.md",
+    "NOTES/Representation of Knowledge.md",
+    "READINGS/thinking_primer.pdf",
+    "READINGS/deduction_theories.pdf",
+    "READINGS/Deductive Reasoning.pdf",
     "NOTES/attachments/Pasted image 20230331212356.png",
     "NOTES/attachments/Pasted image 20230329213932.png",
     "NOTES/attachments/Pasted image 20230329213859.png",
@@ -159,12 +168,7 @@
     "NOTES/attachments/Pasted image 20230329160043.png",
     "NOTES/attachments/Pasted image 20230329160023.png",
     "NOTES/attachments/Pasted image 20230329160001.png",
-    "NOTES/attachments/Pasted image 20230329155529.png",
-    "NOTES/weekly_readings.md",
-    "NOTES/Representation of Knowledge.md",
-    "NOTES/Memory - Encoding and Storage.md",
     "NOTES/Memory - Retention and Retrieval.md",
-    "NOTES/Language and Thought.md",
     "READINGS/Language and Thought.pdf",
     "NOTES/Systematic Literature Review.md",
     "NOTES/Experimental methods in Cognitive Science.md",

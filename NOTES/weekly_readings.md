@@ -67,6 +67,21 @@ Summary: #week-6-7 [[Representation of Knowledge]]
 ## Main Readings:
 
 From: [[Language and Thought.pdf]]
-Ch-5 (Representation of Knowledge)
 Summary: #week-8 [[Language and Thought]]
 
+# Week-9 (2023-03-20 to 2023-03-26)
+
+From: [[John Anderson - Cognitive Psychology and Its Implications (2015, Freeman_Worth) - libgen.li.pdf]]
+Ch-8 (Problem Solving)
+Summary: #week-9 
+
+# Week-10&11&12 (2023-03-27 to 2023-04-16)
+
+**Deduction and Thinking**
+
+1. [[thinking_primer.pdf]]
+	- Summary: #week-10-11-12 
+2. [[Deductive Reasoning.pdf]]
+	- Summary: #week-10-11-12 
+3. [[deduction_theories.pdf]]
+	- Summary: #week-10-11-12 
