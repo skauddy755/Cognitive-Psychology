@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ba0e863eed2acd0",
+            "id": "40af4ec29be9e83e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/Language and Thought.md",
+                "file": "NOTES/Problem Solving.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/Language and Thought.md",
+                "file": "NOTES/Problem Solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/Language and Thought.md",
+                "file": "NOTES/Problem Solving.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/Language and Thought.md"
+                "file": "NOTES/Problem Solving.md"
               }
             }
           }
@@ -148,27 +148,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ba0e863eed2acd0",
+  "active": "40af4ec29be9e83e",
   "lastOpenFiles": [
-    "NOTES/attachments/Pasted image 20230413230515.png",
-    "NOTES/Memory - Encoding and Storage.md",
-    "NOTES/Language and Thought.md",
+    "NOTES/attachments/Pasted image 20230417004321.png",
+    "NOTES/attachments/Pasted image 20230417001755.png",
+    "NOTES/attachments/Pasted image 20230417001407.png",
+    "NOTES/attachments/Pasted image 20230416222131.png",
+    "NOTES/attachments/Pasted image 20230416221201.png",
+    "NOTES/attachments/Pasted image 20230416221150.png",
+    "NOTES/attachments/Pasted image 20230416205601.png",
+    "NOTES/attachments/Pasted image 20230416205550.png",
+    "NOTES/attachments/Pasted image 20230416183011.png",
+    "NOTES/attachments/Pasted image 20230416182942.png",
+    "NOTES/attachments/Pasted image 20230416182928.png",
     "NOTES/weekly_readings.md",
+    "NOTES/Problem Solving.md",
+    "NOTES/Memory - Retention and Retrieval.md",
+    "NOTES/Language and Thought.md",
+    "NOTES/Memory - Encoding and Storage.md",
     "NOTES/Representation of Knowledge.md",
     "READINGS/thinking_primer.pdf",
     "READINGS/deduction_theories.pdf",
     "READINGS/Deductive Reasoning.pdf",
-    "NOTES/attachments/Pasted image 20230331212356.png",
-    "NOTES/attachments/Pasted image 20230329213932.png",
-    "NOTES/attachments/Pasted image 20230329213859.png",
-    "NOTES/attachments/Pasted image 20230329210730.png",
-    "NOTES/attachments/Pasted image 20230329210714.png",
-    "NOTES/attachments/Pasted image 20230329210221.png",
-    "NOTES/attachments/Pasted image 20230329191611.png",
-    "NOTES/attachments/Pasted image 20230329160043.png",
-    "NOTES/attachments/Pasted image 20230329160023.png",
-    "NOTES/attachments/Pasted image 20230329160001.png",
-    "NOTES/Memory - Retention and Retrieval.md",
     "READINGS/Language and Thought.pdf",
     "NOTES/Systematic Literature Review.md",
     "NOTES/Experimental methods in Cognitive Science.md",
