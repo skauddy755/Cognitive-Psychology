@@ -264,7 +264,7 @@ When participants do spontaneously use previous examples to solve a problem, the
 
 
 
-> ***Analogy involves noticing that a past problem solution is relevant and then mapping the elements from that solution to produce an operator for the current problem.***
+> ***Analogy involves noticing that a past problem solution is relevant and then mapping the elements from that solution to produce an operator for the current problem.***
 
 
 ## Analogy and Imitation from an Evolutionary and Brain Perspective
@@ -465,4 +465,82 @@ One of the major prerequisites to developing **complex goal structures** is the 
 
 # Problem Representation
 ---
+
+## The importance of correct representation
+---
+
+Problems are often represented that don't allow application of appropriate operators.
+
+#### Mutilated checkboard problem (Kaplan & Simon 1990)
+
+![[Pasted image 20230418100509.png]]
+
+- **Problem Statement:**
+	- Suppose we have a checkerboard from which two diagonally opposite corner squares have been cut out, leaving 62 squares. Now suppose that we have 31 dominoes, each of which covers exactly two squares of the board.
+	- Can you find some way of arranging these 31 dominoes on the board so that they cover all 62 squares? If it can be done, explain how. If it cannot be done, prove that it cannot.
+- **Observations:**
+	- Relatively few people are able to solve it without some hints, and very few see the answer quickly.
+- **Answer:**
+	- The dominoes cannot cover the checkerboard.
+	- The trick to seeing this is to **include in your representation** of the problem the fact that **each domino must cover one black and one white square**, not just any two squares. There is just no way to place a domino on two squares (since we have 32 black squares but only 30 white squares)
+
+- **Contrast this problem with the following “marriage” problem that occurs with many variations in its statement:**
+	- In a village in Eastern Europe lived an old marriage broker. He was worried. Tomorrow was St. Valentine’s Day, the village’s traditional betrothal day, and his job was to arrange weddings for all the village’s eligible young people. There were 32 women and 32 young men in the village.
+	- This morning he learned that two of the young women had run away to the big city to found a company to build phone apps.
+	- Was he going to be able to get all the young folk paired off?
+- **Observations:**
+	- People almost immediately see that this problem cannot be solved since there are no longer enough women to pair up with the men.
+
+> - Both problems require the same insight of "**matching pairs**
+> - Why is the mutilated-checkerboard problem so hard and the marriage problem so easy?
+> - The answer is that we ***tend not to*** represent the **checkerboard** in terms of matching *black* and *white* squares, whereas we ***do tend to*** represent **marriages** in terms of matching *brides* and *grooms*.
+> - If we use such a matching representation, it **allows the critical operator to apply** (i.e., *checking for parity*).
+
+
+#### Bassok (1990) and Bassok and Holyoak (1989)
+
+***Inappropriate problem representations often cause students to fail to solve problems even though they have been taught the appropriate knowledge***
+
+- Studied high school students who learned to solve problems like:
+	- *What is the acceleration (increase in speed each second) of a train, if its speed increases uniformly from 15 m/s at the beginning of the 1st second, to 45 m/s at the end of the 12th second?*
+- Students were taught such physics problems and became very effective at solving them.
+- However, they had very little success in transferring that knowledge to solving such algebra problems as this one:
+	- *Juanita went to work as a teller in a bank at a salary of $12,400 per year and received constant yearly increases, coming up with a $16,000 salary during her 13th year of work. What was her yearly salary increase?*
+- The students failed to see that their experience with the physics problems was relevant to solving such algebra problems, which actually have the same structure
+
+## Functional Fixedness
+---
+
+**Functional Fixedness:** Tendency to see objects as serving conventional problem-solving functions and thus failing to see possible novel functions.
+
+*But sometimes solutions to problems depend on the solver’s ability to represent the objects in his or her environment in novel ways.*
+
+#### Two-string problem - Maier (1931)
+
+![[Pasted image 20230418103032.png]]
+
+- **Problem Statement:**
+	- Two strings hanging from the ceiling are to be tied together, but they are so far apart that the participant cannot grasp both at once. Among the objects in the room are a chair and a pair of pliers.
+- **Observations:** 
+	- Participants try various solutions involving the chair, but these do not work.
+	- Only 39% of Maier’s participants were able to see this solution within 10 minutes.
+- **Solution:** 
+	- Tie the pliers to one string and set that string swinging like a pendulum; then get the second string, bring it to the center of the room, and wait for the first string with the pliers to swing close enough to catch.
+- **Interpretation:**
+	- Participants did not perceive the pliers as a weight that could be used as a pendulum.
+	- This phenomenon is called **functional fixedness**.
+
+#### Dunker 1945
+
+![[Pasted image 20230418103047.png]]
+
+- **Problem Statement:**
+	- Support a candle on a door, ostensibly for an experiment on vision.
+	- Items given: A box of tacks, some matches, and the candle all placed on a table in the room.
+- **Solution:**
+	- Tack the box to the door and use the box as a platform for the candle. 
+- **Difficulty with the solution:**
+	- This task is difficult because participants see the box as a container, not as a platform.
+	- They have greater difficulty with the task if the box is filled with tacks, reinforcing the perception of the box as a container.
+
 
