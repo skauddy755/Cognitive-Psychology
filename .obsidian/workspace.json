@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "NOTES/Language and Thought.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5c2fa47d44c58be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "NOTES/Problem Solving.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,23 +161,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40af4ec29be9e83e",
+  "active": "f5c2fa47d44c58be",
   "lastOpenFiles": [
+    "NOTES/Language and Thought.md",
+    "NOTES/Problem Solving.md",
+    "NOTES/attachments/Pasted image 20230426030937.png",
+    "NOTES/Untitled.md",
+    "NOTES/attachments/Pasted image 20230426022116.png",
+    "NOTES/attachments/Pasted image 20230426021649.png",
+    "NOTES/weekly_readings.md",
+    "READINGS/Intelligence.pdf",
+    "NOTES/attachments/Pasted image 20230418191503.png",
+    "NOTES/attachments/Pasted image 20230418190901.png",
     "NOTES/attachments/Pasted image 20230418103047.png",
     "NOTES/attachments/Pasted image 20230418103032.png",
     "NOTES/attachments/Pasted image 20230418100509.png",
     "NOTES/attachments/Pasted image 20230417004321.png",
     "NOTES/attachments/Pasted image 20230417001755.png",
-    "NOTES/attachments/Pasted image 20230417001407.png",
-    "NOTES/attachments/Pasted image 20230416222131.png",
-    "NOTES/attachments/Pasted image 20230416221201.png",
-    "NOTES/attachments/Pasted image 20230416221150.png",
-    "NOTES/attachments/Pasted image 20230416205601.png",
-    "NOTES/attachments/Pasted image 20230416205550.png",
-    "NOTES/weekly_readings.md",
-    "NOTES/Problem Solving.md",
     "NOTES/Memory - Retention and Retrieval.md",
-    "NOTES/Language and Thought.md",
     "NOTES/Memory - Encoding and Storage.md",
     "NOTES/Representation of Knowledge.md",
     "READINGS/thinking_primer.pdf",

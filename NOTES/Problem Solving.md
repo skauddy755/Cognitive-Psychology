@@ -544,3 +544,189 @@ Problems are often represented that don't allow application of appropriate opera
 	- They have greater difficulty with the task if the box is filled with tacks, reinforcing the perception of the box as a container.
 
 
+# Set Effects
+---
+
+People’s experiences can bias them to prefer certain operators when solving a problem. Such biasing of the problem solution is referred to as a **set effect**.
+
+#### Water-Jug problems - Luchins (1942), Luchins & Luchins (1959)
+
+![[Pasted image 20230418190901.png]]
+
+- **Problem Statement:**
+	- Participants are told to imagine that they have a sink so that they can fill jugs from the tap and pour water into the sink or from one jug into another. The jugs start out empty. When filling a jug from the tap, participants must fill the jug to capacity; when pouring the water from a jug, participants must empty the jug completely.
+- **Actual Solutions:**
+	- Problem-(1): 2A + C (adddition solution)
+	- Problem-(2): B - A - 2C (subtraction solution)
+- **Observations and Manipulations:**
+	- Luchins first gave participants a series of problems that all could be solved by addition, thus creating an “addition set.”
+	- These participants then solved new addition problems faster, and subtraction problems slower, than control participants who had no practice.
+
+The set effect that Luchins (1942) is most famous for demonstrating is the **Einstellung effect**, or *"mechanization of thought"*
+
+![[Pasted image 20230418191503.png]]
+
+- **Problem Statement:** Task same as before (there are 10 problems)
+- **Actual Solutions:**
+	- Problems {1, 2, 3, 4, 5, 6, 7, 9, 10} can be solved using `B - 2C - A` method
+	- Problems {8} cannot be solved by `B - 2C - A` method, but can be solved by a simpler `A - C` method.
+	- For problems {1, 2, 3, 4, 5} `B - 2C - A` is the simplest method
+	- For problems {7, 9} the simpler `A + C` also works.
+	- For problems {6, 10} the simpler `A - C` also works.
+- **Observations:**
+	- Of those who received the whole setup of 10 problems:
+		- 83% used `B - 2C - A` method on problems {6, 7}
+		- 64% failed to solve Problem {8}
+		- 79% used the `B - 2C - A` method for problems {9, 10}
+	- Of those who received only the last 5 problems (Control Group)
+		- < 1% used that `B - 2C - A` solution
+		- 5% failed to solve Problem {8}
+- **Interpretation:**
+	- Thus, the first 5 problems created a powerful bias for a particular solution that hurt the solution of problems 6 through 10.
+- **Counter the set-effect:**
+	- Luchins found that simply warning participants by saying, “Don’t be blind” after problem 5 allowed more than 50% of them to overcome the set for the `B - 2C - A` solution.
+
+Another kind of set effect in problem solving has to do with the influence of **general semantic factors**
+
+#### Anagram Solutions - Safren 1962
+
+- **Problem Statement:**
+	- Safren presented participants with lists such as the following, in which each set of letters was to be unscrambled and made into a word:
+	- *kmli graus teews recma foefce ikrdn* -> *milk sugar sweet cream coffee drink*
+
+- **Controls:**
+	- The list can either be **organized**, (example the above list in which the individual words are all associated with drinking coffee) or it can be **unorganized**
+	- Safren compared **median solution times** for organized lists with times for unorganized lists.
+	- Median solution time = (organized list: 12.2 s, unorganized list: 7.4s)
+- **Interpretation:** 
+	- Presumably, the facilitation for the organized lists occurred because the earlier items in the list associatively primed, and so made more available, the later words.
+- **This anagram experiment contrasts with the water jug experiment in that no particular procedure was being strengthened. Rather, what was being strengthened was part of the participant’s factual (declarative) knowledge about spellings of associatively related words**
+
+- In general, set effects occur when some knowledge structures become more available than others.
+- These structures can be either:
+	- **procedures**, (as in the water *jug problem*), or
+	- **declarative information**, (as in the *anagram problem*). 
+- If the available knowledge is what participants need to solve the problem, their problem solving will be facilitated. If the available knowledge is not what is needed, problem solving will be inhibited.
+
+## Incubation Effects
+---
+
+> People often report that after trying to solve a problem and getting nowhere, they can put it aside for hours, days, or weeks and then, upon returning to it, can see the solution quickly
+> 
+> The famous French mathematician Henri Poincaré (1929) reported many examples of this pattern, including the following:
+> "*Then I turned my attention to the study of some arithmetical questions apparently without much success and without a suspicion of any connection with my preceding researches. Disgusted with my failure, I went to spend a few days at the seaside, and thought of something else. One morning, walking on the bluff, the idea came to me, with just the same characteristics of brevity, suddenness, and immediate certainty, that the arithmetic transformations of indeterminate ternary quadratic forms" were identical with those of non-Euclidean geometry.*"
+> 
+> Such phenomena are called **incubation effects**
+
+#### Silveira (1971) - Cheap Necklace Problem
+
+- **Problem Statement:**
+	- You are given four separate pieces of chain that are each three links in length. It costs 2¢ to open a link and 3¢ to close a link. All links are closed at the beginning of the problem. Your goal is to join all 12 links of chain into a single circle at a cost of no more than 15¢.
+	- ![[Pasted image 20230426021649.png]]
+- **Setting:**
+	- Participants were divided into 3 groups:
+		- G1 (Control Group): worked on the problem for half an hour
+		- G2 (1st experimental Group): the half hour spent on the problem was interrupted by a half-hour break in which the participants did other activities.
+		- G3 (2nd experimental Group): had a 4-hour break
+	- Silveira required her participants to speak aloud as they solved
+- **Observations:**
+	- Percentage solved:
+		- G1: 55% solved
+		- G2: 64% solved
+		- G3: 85% solved
+	- She found that they did not come back to the problem after a break with solutions completely worked out. Rather, they began by trying to solve the problem much as before.
+- **Interpretation:**
+	- (obs 2nd point): This result is evidence against a common misconception that people are subconsciously solving the problem during the period that they are away from it.
+- **Conclusion:**
+	- The best explanation for incubation effects relates them to set effects.
+	- During initial attempts to solve a problem, people set themselves to think about the problem in certain ways and bring to bear certain knowledge structures.
+		- If this initial set is appropriate, they will solve the problem.
+		- If the initial set is not appropriate, however, they will be stuck throughout the session with inappropriate procedures.
+		- Going away from the problem allows activation of the inappropriate knowledge structures to dissipate, and people are able to take a fresh approach.
+
+#### S. M. Smith and Blakenship (1989, 1991)
+
+- **Objective:**
+	- A fairly direct test of the hypothesis "***incubation effects occur because people “forget” inappropriate ways of solving problems***"
+- **Problem Statement:**
+	- Participants had to figure out what familiar phrase was represented by each image.
+	- ![[Pasted image 20230426022116.png]]
+	- For example,
+		- the first picture represents the phrase “reading between the lines”;
+		- the second, “search high and low”;
+		- the third, “a hole in one”; and the fourth, “double or nothing.”
+- **Setting:**
+	- There were 2 groups (experimental group (fixation group), control group):
+		- F (fixation group):
+			- They were deliberately provided with incorrect ways to think
+			- Example: In Problem 3, they were asked to think of "chemicals".
+		- F' (control group):
+			- No such clues given.
+	- Each group were divided into 2 subgroups (half):
+		- C - participants worked on the problems for a continuous period of time,
+		- C' - had an incubation period inserted in the middle of their problem solving efforts
+	- Therefore 4 types of participants: (FC, FC', F'C, F'C')
+- **Observations:**
+	1. No. of problems solved: F < F'
+	2. The fixation participants showed a greater benefit of the incubation period.
+		- When they asked the fixation participants what the misleading clue had been, they found that more of the participants who had an incubation period had **forgotten the inappropriate clue**.
+- **Conclusion:**
+	- Thus, the incubation effect for the fixation participants occurred because they had forgotten the inappropriate way of solving the problem.
+
+
+## Insight
+---
+
+A **common misconception** about learning and problem solving is that there are "magical moments" of insight when everything falls into place and we suddenly see a solution. This is called the “aha” experience, and many of us can report uttering that very exclamation after a long struggle with a problem that we suddenly solve.
+
+The incubation effects just discussed have been used to argue that the subconscious is deriving this insight during the incubation period. As we saw, however, what really happens is that participants simply let go of poor ways of solving problems.
+
+#### Metcalfe and Wiebe (1987)
+
+- came up with ways to define "insight problems"
+- They proposed that problems like the cheap-necklace problem are insight problems, whereas problems requiring multistep solutions, like the Tower of Hanoi problem (see Figure 8.10), are noninsight problems.
+- **Objective:** To test the above fact
+- **Task:** Asked participants to judge every 15 s how close they felt they were to the solution.
+- **Observations:**
+	- Fifteen seconds before they actually solved a **noninsight problem**, participants were fairly confident they were close to a solution.
+	- In contrast, with **insight problems**, participants had little idea they were close to a solution, even 15 s before they actually solved the problem.
+
+#### Kaplan and Simon (1990)
+
+- **Task:** They studied participants while they solved the **mutilated-checkerboard problem**, which is another *insight problem*.
+- **Observation:**
+	- Some participants noticed key features of the solution to the problem—such as that a domino covers one square of each color— early on.
+	- Sometimes, though, these participants did not judge those features to be critical and went off and tried other methods of solution; only later did they come back to the key feature.
+- **Conclusion:**
+	- So, it is not that solutions to insight problems cannot come in pieces,
+	- but rather that **participants do not recognize which pieces are key until they see the final solution**.
+
+
+#### Mednick 1962
+
+- *one more example of "insight problems"*
+- Participants are asked to find some word that can be combined with three words to make a compound word.
+- **Example:**
+	- Given: {"fox", "man", "peep"}, the solution is "hole"
+	- since {"fox-hole", "man-hole", "peep-hole"} all make sense
+
+#### Jung-Beeman et al., 2004 - Brain Activity Studies
+
+- **Task:**
+	- Conducted brain-activity studies while participants solved "insight-problems".
+	- Characteristic of insight problems, people often get a sudden feeling of insight when they solve them.
+- **Plotting:**
+	- Imaging results from our laboratory, which shows activity in the **left prefrontal region** (associated with *retrieval from declarative memory*)
+	- The figure compares 2 cases (successfully | unsuccessfully) solved.
+	- Time = 0, at the point where the solution was clicked in successful case
+- **Observations:**
+	- ![[Pasted image 20230426030937.png]]
+	- Both functions are increasing, => increasing effort as the search progresses.
+	- But there is an abrupt drop (time-lagged as we would expect with the BOLD response) after the insight.
+- **Interpretation:**
+	- In dropping off, the prefrontal cortex is showing a strikingly different response compared to other brain regions and is reflecting the end to the search of memory for the answer.
+
+
+> ***Insight problems are ones in which solvers cannot recognize when they are getting close to the solution.***
+
+

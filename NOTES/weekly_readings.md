@@ -85,3 +85,13 @@ Summary: #week-9
 	- Summary: #week-10-11-12 
 3. [[deduction_theories.pdf]]
 	- Summary: #week-10-11-12 
+
+# Week-13 (2023-04-17 to 2023-04-23)
+
+**Inductive Reasoning** and **Intelligence**
+
+1. [[Inductive Reasoning.pdf]]
+	- Summary: #week-13
+2. [[Intelligence.pdf]]
+	- Summary: #week-13 
+
