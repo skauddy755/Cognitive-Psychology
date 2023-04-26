@@ -80,11 +80,11 @@ Summary: #week-9
 **Deduction and Thinking**
 
 1. [[thinking_primer.pdf]]
-	- Summary: #week-10-11-12 
+	- Summary: #week-10-11-12 [[I am Thinking]]
 2. [[Deductive Reasoning.pdf]]
-	- Summary: #week-10-11-12 
+	- Summary: #week-10-11-12 [[Deduction]]
 3. [[deduction_theories.pdf]]
-	- Summary: #week-10-11-12 
+	- Summary: #week-10-11-12 [[Deduction]]
 
 # Week-13 (2023-04-17 to 2023-04-23)
 
