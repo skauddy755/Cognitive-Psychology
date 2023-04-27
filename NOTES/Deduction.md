@@ -278,6 +278,284 @@ Psychological studies show that,
 			4. The role of pragmatic relevance for different forms of conditional statement (*Sperber, Cara, & Girotto, 1995*).
 
 
-## Theoretical Issues in the Psychology of Deduction
+# Theoretical Issues in the Psychology of Deduction
 ---
+
+> There are 3 important theoretical explanations of Deduction:
+> 0. Logic (**INCORRECT**)
+> 1. Mental Logic (Mental Rule Theory)
+> 2. Mental Models Theory
+> 3. Dual-process Theory
+
+## (0,1,2) - Logic, Mental Logic (Mental Rule Theory), Mental Models
+---
+
+Despite the frequency of errors and biases, people do show some level of deductive competency on reasoning tasks, especially those of higher cognitive ability (Stanovich, 2011).
+***For example***, people endorse far more valid inferences than invalid ones on both syllogistic and conditional inference tasks.
+
+Some psychologist have focussed on the competence rather than the errors and asked questions about the mechanisms by which people draw deductions. Few such approaches are:
+1. Mental Logic
+2. Mental Models
+
+#### MENTAL LOGIC (more accurately be described as Mental Rule Theory)
+
+- **Philosophers** and **logicians** considered "rules of logic" as the basis of thinking.
+- **Psychologists** however doscovered that people had their own built-in set of rules that differed from the logic rules.
+- *Example:*
+	- According to Logic, there should be no difference between MP and MT.
+	- But, People are better at MP
+
+###### Mental Logicians have tried to address this problem (MP > MT)
+
+- Only MP is a simple rule where one can apply direct inference.
+- MT can be drawn but by an indirect reasoning procedure called "*reductio reasoning*" (use contradictions)
+- *Example:*
+	- Major Premise: "If the letter is B, the number is 3"
+	- Case-1: Minor Premise: "The letter is B" (MP)
+		- If people are told there **is a B**, then they can immediately apply their built-in rule for MP and conclude that there is a 3.
+	- Case-2: Minor Premise: "The number is 3" (MT)
+		- If told there **is not a 3**, they do not have a rule for MT that can be applied in the same way.
+		- Instead, they have to reason as follows:
+			- "If I imagine there is a B on the card, then there must be a 3. But I have been told there is not a 3 which is a contradiction. So I must have been wrong to suppose that there was a B on the card. Hence, I can conclude that there is not a B."
+		- This indirect reasoning is harder to execute and more prone to errors, explaining the lower acceptance rate of MT
+
+#### MENTAL MODEL THEORY
+
+- proposed by *Kenneth Craik*, developed by *Philip Johnson-Laird* (student of *Peter Wason*).
+- **MENTAL MODEL:** Internal Representations of some possible states of the world, having the same structure as that state.
+- *Example:*
+	- "Kay" is taller than "Ray"; "Ray" is taller than "Jay"; What do you say about "Kay" and "Jay"?
+	- People imagine 3 lines (one for each boy), and assign relative heights based on the statements. Use the same relativity to answer the question of who is taller.
+
+This theory also proposes that people are:
+- deductively competent in principle,
+- but fallible in practice,
+- but does not rely on the application of mental rules.
+
+The core of the theory is the idea that,
+- People reason about possibilities, which are states of the world that might be true or false.
+- These possibilities are represented by mental models.
+- When the premises of an argument are presented, people are supposed to construct mental models to represent all possibilities and then reason as follows:
+	1. If the conclusion is true in all models of the premises, it is necessary
+	2. If the conclusion is true in some models of the premises, it is possible
+	3. If the conclusion is true in no models of the premises, it is impossible
+
+###### Mental Model to explain Disjunctive Elimination
+
+- Major Premise: "Either the Letter is B, OR the Number is 3"
+	- people construct the following models as possibilities:
+		- (1) There is a B
+		- (2) There is a 3
+		- (3) There is both B and 3
+- Minor Premise: "The Number is not 3"
+	- on hearing this, people eliminate the last 2 models, and are left with only 1st model
+	- Hence, "There is a B" is the answer that they give.
+
+Hence, people will conclude B as a correct deduction but without having any rule of disjunction elimination for the inference.
+
+###### Mental Model to explain MP and MT
+
+- Major Premise: "If there is a B, then there is a 3"
+- **INCORRECT WAY TO REPRESENT THE MODELS**
+	- The full set of possibilities for this statement, according to the published theory, is the following:
+		- (1) B , 3
+		- (2) not-B , 3
+		- (3) not-B , not-3
+	- Given these possibilities, the minor premise B eliminates all but the first model, so the conclusion 3 follows (MP). The minor premise not-3, eliminates all the last model, so that not-B follows (MT)
+- However, to account for the relative difficulty of MT, mental-logic theorists (Johnson-Laird and Byrne) proposed the following:
+- **CORRECT WAY TO REPRESENT THE MODELS**
+	- People initially represent conditionals as:
+		- \[B\] , 3
+		- . . .
+	- The first model means that in all cases of B (meaning of \[ \]), there is a 3. The ellipsis ‘. . . ’ means there are other possibilities
+	- So if B is presented, people can immediately do Modus Ponens and conclude 3. However, if not-3 is presented, then they have to ‘flesh out’ the models to the fully explicit set given above in order to make Modus Tollens.
+- **Fleshing out is error prone, so people sometimes fail to make this valid inference**
+
+> I think it fair to say that both mental rule and mental model theory are firmly rooted in the traditional deduction paradigm, as they both put an account of logical competence foremost and deal with effects of beliefs and pragmatics as add-ons.
+> 
+> ~ *Evans*
+
+
+## (2) Mental Models
+---
+
+- Johnson-Laird argues that, **"reasoning involves constructing mental-models"**
+- a **mental model** is “**an iconic representation of a possibility that depicts only those clauses in a compound assertion that are true**".
+
+**Example:**
+
+- Premises:
+	- The lamp is on the right of the pad.
+	- The book is on the left of the pad.
+	- The clock is in front of the book.
+	- The vase is in front of the lamp.
+- Conclusion
+	- The clock is to the left of the vase.
+- According to Johnson-Laird (1983), people use the information contained in the premises to construct a mental model like this:
+	- ![[Pasted image 20230427171537.png]]
+
+### ASSUMTIONS OF MENTAL MODEL THEORY
+
+1. A mental model describing the given situation is constructed and the conclusions that follow are generated.
+2. An attempt is made to construct alternative models to falsify the conclusion by finding counterexamples to the conclusion. If a counterexample model is not found, the conclusion is deemed valid.
+3. The construction of mental models involves the limited resources of working memory
+4. Reasoning problems requiring the construction of several mental models are harder than those requiring only one mental model because the former impose greater demands on working memory.
+5. The **principle of truth: “Mental models represent what is true, but not what is false”** (*Khemlani & Johnson-Laird, 2017*). This minimises demands on working memory
+
+
+### FINDINGS OF MENTAL MODEL THEORY
+
+#### Working Memory
+
+- Several studies support the notion that working memory plays a central role in the formation of mental models.
+
+#### Brunyé et al. (2008) 
+
+- Found the central executive and visuo-spatial sketchpad components of the working memory system were heavily involved in constructing mental models.
+
+#### Copeland and Radvansky (2004)
+
+- Found working memory capacity correlated (+42) with syllogistic reasoning performance
+
+#### Khemlani and Johnson-Laird (2017) - Testing the Principle of Truth
+
+- Reviewed 20 studies testing the principle of truth. These studies used various reasoning tasks, in all of which individuals failing to represent what is false in their mental models would produce illusory inferences.
+- Numerous illusory inferences were drawn. In contrast, performance was very good with similar problems where adherence to the principle of truth was sufficient to produce correct answer.
+- *Example:*
+	- ![[Pasted image 20230427172555.png]]
+	- **Correct Answer:**
+		- "No"
+		- If there were an ace in the hand, both the first two premises would be true. However, the problem states that only one of the premises is true.
+	- **Observations:**
+		- Nearly everyone says “Yes” (which is wrong)
+
+
+#### Khemlani and Johnson-Laird (2012)
+
+- carried out a meta-analysis of syllogistic reasoning studies to compare seven theories.
+- The mental model theory was:
+	- best at predicting participants’ responses with a 95% success rate.
+	- However, relatively weak at rejecting responses people do not produce
+
+#### Newstead et al. (1999) - "people search for counterexamples after initail model"
+
+- obtained no support for this conclusion
+
+#### Khemlani et al. (2012)
+
+- Found that people generate relatively few counterexamples.
+- *Example:*
+	- Particpnats were told: *They’re "**not living adult males**". So, who could they be?*
+	- There are seven possibilities (e.g., dead adult males; living girls; ...)
+	- **Observations:** But participants listed only four possibilities on average.
+	- **Conclusion:** people generate few counterexamples
+
+#### Ragni & Knauff, (2013) - Struggles with ambiguous Reasoning
+
+- *Consider the example:*
+	- ![[Pasted image 20230427173317.png]]
+	- Question asked: "Which relation holds between the Beetle and the Ferrari?"
+	- There is no definit answer to this question
+	- **Drawback of Mental Model:** Does not predict which answer will be given by most participants.
+
+
+### EVALUATION OF MENTAL MODEL THEORY
+
+*Successes:*
+
+1. The theory **compares well against other theories** of reasoning (Khemlani & Johnson-Laird, 2012; Johnson-Laird et al., 2018) and also performs well when predicting performance on Wason’s selection task (Ragni et al., 2018).
+2. As predicted, **working memory is involved** in the construction of mental models.
+3. There is **substantial support for the principle of truth**.
+4. The theory has recently been developed to **account for reasoning about probabilities** (Johnson-Laird et al., 2015).
+
+*Limtations:*
+
+1. Most people find deductive reasoning very hard and so resort to easier forms of processing (discussed shortly).
+2. Most people **do not typically search for counterexamples** as predicted theoretically.
+3. **The processes involved in forming mental models are underspecified**. It is assumed people use background knowledge when forming mental models, but the theory does not spell how we decide which information to include in a mental model.
+4. Often **fails to predict people’s answers with ambiguous reasoning problems** (e.g., Ragni & Knauff, 2013)
+
+
+## (3) Dual-Process Theories
+---
+
+Several theorists (Stanovich, Evans, Sloman, Kahneman, De Neys) have proposed dual-process (sometimes called dual-system) theoretical accounts of **human reasoning** and **other aspects of higher-level cognition**.
+
+Evans and Stanovich (2013) provided an integrative account of dual-process theories based on a distinction between **Type 1** (intuitive processing) and **Type 2** (reflective processing)
+
+> **Autonomy:** it is mandatory or necessary when the appropriate triggering stimuli are encountered
+> **Cognitive Decoupling:** hypothetical reasoning not constrained by the immediate environment.
+
+*Defining Features:*
+
+1. **Type-1:** Autonomy, No Working Memory
+2. **Type-2:** Cognitive Decoupling, Working memory needed
+
+*Characteristics Featuers:*
+
+1. **Type-1:** Fast, High-capacity, automatic, independent of cognitive ability
+2. **Type-2:** Slow, Limited-cap, controlled, dependent on cognitive ability
+
+*Default-intervenionist model*
+
+- Assumed that individuals trying to solve reasoning problems,
+	- initially use intuitive Type 1 processing to generate a rapid heuristic answer
+	- which may be corrected by a subsequent more deliberate answer produced via slow Type 2 processing.
+- A key assumption is that reasoning performance will generally (but not invariably) be superior when it involves Type 2 processing in addition to Type 1 processing.
+
+*Why is it wrong to equate {Type1: biased (often incorrect), Type1: correct reasoning}*
+
+- We often get things done right via habbit or reliable intuition involving Type-1 processing.
+- Our effortful Type-2 processing (while solving Maths solving) can also produce incorrect response
+
+*When is Type-2 used?* (**Predictions** made by **Early Dual-Process Theories**)
+
+1. Reasoners are intelligent
+2. Availability of time to process information
+3. Reasoners do not need to perform a secondary demanding task simultaneously
+
+
+### FINDINGS OF EARLY DUAL-PROCESS THEORIES
+
+> Much research to test the above predictions has focused on **"belief bias"**
+> According to dual-process theories, there will be less belief bias (and superior performance) when Type-2 processes are used.
+
+1. More intelligent reasoners might show less belief bias because of their high cognitive ability or because they choose to adopt an analytic cognitive style.
+2. There is also support for the second prediction that there should be less belief bias with ample thinking time because restricting thinking time reduces reasoners’ ability to use Type 2 processes. In similar fashion, errors in conditional reasoning occur more often when reasoners must respond rapidly.
+3. *De Neys (2006)* found that reasoners exhibited much more belief bias when performing a demanding secondary task.
+
+
+### THEORETICAL DIFFERENCES AND DEVELOPMENTS
+
+*The early Theories were oversimplified*
+
+- The assumption that correct reasoning performance reflects Type 2 processing whereas incorrect reasoning performance reflects Type 1 processing is only partially correct
+- The relationship between Type 1 and 2 processing during reasoning tasks. Several early theorists (Evans & Stanovich) proposed serial models for reasoning.
+	- De Neys (2012) identified three models of how Type 1 and 2 processing combine:
+	- ![[Pasted image 20230427191544.png]]
+	- (1) **Serial Model:** as per the traditional theories
+	- (2) **Paraller Model:** Type-1 and Type-2 occur at the same time. This model is a waste of cognitive resources.
+	- (3) **Logical Intuition Model:**
+		- Two types of intuitive responses (**intuitive heuristic** and **intuitive logical**) are activated in parallel.
+		- If these two responses conflict, deliberate (Type 2) processes resolve matters.
+		- De Neys argued that traditional logical principles can be activated fairly automatically (intuitive logical).
+
+### FINDINGS FOR LATER DUAL-PROCESS MODELS
+
+*Supports for Logical-Intuition Model*
+
+#### De Neys et al. (2010)
+
+- **Task:** Participants were given syllogistic reasoning tasks with conflict (between the logical validity and believability of conclusion).
+- **Observations-1:** 89% accuracy on conflict-trials, 52% accuracy on non-conflict-trials.
+- **Interpretation-1:** The very poor performance on conflict problems (marginally greater than chance) suggests reasoners failed to detect their logical structure.
+- **Observation-2:** Greater physiological arousal on conflict trials
+- **Interpretation:** conflict was registered within the processing system below the conscious level.
+- **Conclusion:** Some logical processing can be intuitive rather than analytic.
+
+#### Trippas et al. (2016)
+
+- **Task:** Participants were asked to decide how much they liked various sentences.
+- **Observation:** Sentences following logically from preceding sentences were rated more likeable than those that did not.
+- **Interpretation:** Since the task made no reference to logical validity, this finding suggests participants had an **"implicit" sensitivity to "logical structure" based primarily involving Type 1 processes**.
 
