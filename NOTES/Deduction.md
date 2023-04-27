@@ -547,7 +547,7 @@ Evans and Stanovich (2013) provided an integrative account of dual-process theor
 #### De Neys et al. (2010)
 
 - **Task:** Participants were given syllogistic reasoning tasks with conflict (between the logical validity and believability of conclusion).
-- **Observations-1:** 89% accuracy on conflict-trials, 52% accuracy on non-conflict-trials.
+- **Observations-1:** 89% accuracy on NON-conflict-trials, 52% accuracy on conflict-trials.
 - **Interpretation-1:** The very poor performance on conflict problems (marginally greater than chance) suggests reasoners failed to detect their logical structure.
 - **Observation-2:** Greater physiological arousal on conflict trials
 - **Interpretation:** conflict was registered within the processing system below the conscious level.
@@ -558,4 +558,101 @@ Evans and Stanovich (2013) provided an integrative account of dual-process theor
 - **Task:** Participants were asked to decide how much they liked various sentences.
 - **Observation:** Sentences following logically from preceding sentences were rated more likeable than those that did not.
 - **Interpretation:** Since the task made no reference to logical validity, this finding suggests participants had an **"implicit" sensitivity to "logical structure" based primarily involving Type 1 processes**.
+
+#### Bago and De Neys (2017)
+
+- **Task:**
+	- presented participants with various syllogistic reasoning problems involving conflict between the believability and validity of the conclusion.
+	- The participants provided two responses to each problem:
+	- (1) a fast, intuitive response; and (2) a much slower and more deliberate response.
+- **According to the default-interventionist model** (e.g., *Evans & Stanovich, 2013*)
+	- we would predict: **low levels of accurate fast responses** and **substantially more correct deliberate responses** than intuitive ones.
+- **Observations:** Neither prediction was supported.
+- **Modification:** They performed the same task, with an additional secondary demanding task at the same time, (to reduce their engagement in Type-2 analytical processing)
+- **Observations:** Nevertheless, 49% of fast responses on conflict problems were correct.
+- ***Overall, these findings support the logical intuition model in that fast (and presumably Type 1) processes often produce logically correct responses.*
+
+> Contrary to the predictions of early dual-process theories, fast responses were often correct based on logical validity and slow responses were often incorrect and exhibited belief bias. These findings suggest a blurring of the distinction between Type 1 and Type 2 processes.
+
+
+#### Trippas et al. (2017)
+
+- **Tasks:** Asked participants conditional-reasoning problems involving conflict between logical validity and believability of the conclusion.
+- **According to the EARLY dual-process theories,**
+	1. Responding on the **basis of belief** (involve Type 1 processing) and so should be faster than responding on the **basis of logic** (involving Type 2 processing).
+	2. The **believability of the conclusion** (accessed rapidly) should interfere with **logic-based responses** (accessed slowly) but the reverse should not be the case
+- **Observations:** Neither predictions were true
+	1. Response times were comparable on belief-based and logic-based trials, and
+	2. The logical validity of the conclusion interfered with belief-based responding
+- **However, these findings were consistent with parallel-processing theories**
+
+#### Thompson et al. (2018)
+
+- **Task:** Participants **differing in cognitive ability** received incongruent reasoning problems:involving a conflict between belief and logic and had to respond on the basis of belief or logic.
+- **Observations:**
+	- ![[Pasted image 20230428014018.png]]
+	- More intelligent people produce logic-based responses faster than belief-based responses. (opp. for less-intelligent people)
+- **Conclusion:**
+	- **Individual differences** seem to play a key role in the **type of response chosen**
+	- Since, both Logic and Belief based responses can be generated both automatically (and quickly) as well as deliberately (and slowly). Responses merely differ on a single dimension, namely, "complexity"
+
+### WHAT CAUSES TYPE-2 PROCESSING?
+
+> What determines whether reasoners’ responses are based on analytic (Type 2) processing or whether they reflect only intuitive (Type 1) processes?
+
+**Traditional serial models**
+
+- assume that Type 2 processes monitor the output of Type 1 processes and it is this monitoring process that determines whether reasoning performance is based on Type 2 processes.
+**Many parallel models**
+- assume Type 2 reasoning is triggered when "conflict monitoring" (involving Type 2 processing) leads to "conflict detection".
+
+What is puzzling about all these theories is that, “They assume that Type 2 processing is effectively caused by itself”
+
+#### Meta Reasoning - Ackerman and Thompson (2017)
+
+- **Meta Reasoning:** "The processes that monitor the progress of our reasoning and problem-solving activities and regulate the time and effort devoted to them"
+- Monitoring processes assess the **probability of success** **"before"**, **"during"** and **"after"** performing a reasoning task.
+- The most important monitoring feature is the **feeling of rightness**: “the degree to which the first solution that comes to mind feels right”
+- Only **when this feeling is weak do reasoners engage in substantial Type 2** (or analytic) processing.
+
+#### Role of Feelin-of-Rightness Ratings on use of Type-2 processes - Thompson et. al. (2011)
+
+- **Task:**
+	- Participants given syllogistic and conditional-reasoning tasks.
+	- To provide an initial answer, immediately after reading each problem (intuitive - Type1).
+	- The asked to assess the answer's correctness (feeling-of-rightness)
+	- Then, given unlimited time to reconsider initial answer and provide a final answer.
+- **Observations:**
+	- participants
+		- **spent longer reconsidering their intuitive answer** and **were more likely to change it**
+		- **when they had low feelings of rightness.**
+
+
+#### What determines this Feeling-of-Rightness? - Thompson et. al. (2013)
+
+- **Task:**
+	- Participants given syllogistic and conditional-reasoning tasks.
+	- To provide a first response that came to mind.
+	- Provide a feeling-of-rightness rating
+	- Then, produce a slower (more deliberate) response
+- **Observations:**
+	- Feeling of rightness was higher, when the first response was produced rapidly
+
+
+### EVALUATION OF DUAL-PROCESS THEORIES
+
+*Strength:*
+
+1. dual-process theories have become increasingly popular and wide-ranging. For example, they provide explanations for syllogistic reasoning and conditional reasoning.
+2. Dual-process theory provides a valuable high-level framework within which more specific and testable models can be developed
+
+*Limitations:*
+
+1. dual-process theories are over-simplified:
+	- (1) they often imply that Type 1 processes are “bad” and error prone, whereas Type 2 processes are “good”; and
+	- (2) they assume many cognitive processes can be assigned to just two types
+2. The absence of a clear and general definition of a Type 1 or Type 2 response does create difficulty for researchers wishing to test dual-process theories
+
+# The New Paradigm Psychology of Reasoning
+---
 
