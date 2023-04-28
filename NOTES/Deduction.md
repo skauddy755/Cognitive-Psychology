@@ -656,3 +656,93 @@ What is puzzling about all these theories is that, “They assume that Type 2 pr
 # The New Paradigm Psychology of Reasoning
 ---
 
+**Classical Paradigm:**
+- During reasoning, people are drawing **logical inferences**
+- Reasoning involves determining truth and falsity of arguments.
+
+**New Paradigm:**
+- People naturally reason from their beliefs and this should not be considered an error r cognitive bias
+- During reasoning people are making decisions
+- Reasoning involves determining:
+	- What is believed and to what extent? (Degree of Belief)
+	- What is its value? (Utility)
+
+**Earlier View:** Logic was the basis of reasoning
+
+As evidence of logical errors, cognitive biases, and belief-based reasoning accumulated, this presented a clear problem both for psychologists and for philosophers
+
+The problem with the view was that, by the original assumptions, **people were turning out to be irrational**.
+
+Peter Wason, for example, was quite clearly of the view that people were illogical and therefore irrational
+
+#### Jonathan Cohen
+
+- Argued that people were in fact inherently rational and that psychological experiments could never prove otherwise (Cohen, 1981).
+- He suggested that the **experiments were unrepresentative or being misinterpreted**.
+- He also pointed out that **standard logic, for example, is not the only kind that logicians have offered**. There could be alternative normative accounts of how to be rational. (A normative theory is one of how people ought to reason)
+
+#### Mike Oaksford and Nick Chater
+
+- Their first important contribution was an alternative normative account of the Wason selection task, arguing that the **typical answer can be seen as rational** from a **decision-making perspective**
+- they took the view that human behaviour must be rationally adapted to the environment and if a standard normative account does not explain it, then we should look for another
+
+
+> The essence of the **new paradigm** is that people naturally reason from their beliefs about the world and that this should not be treated as an error or cognitive bias
+> 
+> A key feature of the new paradigm is the proposal of the **suppositional conditional**, also known as the probability conditional (*Evans & Over, 2004; Oaksford & Chater, 2001*)
+
+
+## Material Condition vs Suppositional Condition
+---
+
+Consider the example: "If the letter is B, then the number is 3"
+
+Truth table as per Standard Logic:
+![[Pasted image 20230428122356.png]]
+Therefore, in Standard Logic, the above conditional can also be written in a Disjunctive Form:
+"Either the letter is not B, or the number is 3"
+
+This is referred to as **Material Conditional**
+
+However, many philosophers have rejected the material conditional as an account of the ordinary conditional of everyday language. Since it can lead to unacceptable inferences. *Example*
+- Since, the material condition "If p, then q" is valid whenever, "p is false" or "q is true"
+- The following inferences are also valid:
+	- If President Trump is French, then Paris is the capital of the USA (**due to "p is false"**)
+	- If 2+2 = 5, then 3 is a prime number (**due to "q is true"**)
+- But, no normal person will endorse these inferences.
+
+#### Ramsey Test
+
+A conditional is not material, but suppositional, therefore, the probability of the consequent s evaluated assuming the antecedenthas already happened.
+
+> - The philosopher Ramsey famously argued that belief in the ordinary conditional if p then q, is in effect the probability that q will be true if p is
+> - He also suggested that we do this by adding p to our current stock of beliefs and arguing about q on that basis.
+> - This is known as the Ramsey test and we suggested that conditional statements are suppositional – they depend on the supposition of p
+
+*Example*
+"If teachers’ pay is raised, then recruitment will increase"
+
+- Many people will agree with this statement or assign a high probability to it.
+- They do this by:
+	- **supposing first that teacher’s pay is in fact raised** and
+	- then using **other beliefs to calculate the likelihood that they will prove easier to recruit**. (They may be aware that recruitment has been difficult in recent years and that one factor is almost certainly that salary levels have fallen behind those of workers in other professions. So, they believe that financial incentive will help address the issue).
+- In doing this, **they ignore any beliefs they have about what will happen if pay is not increased**, which they regard as irrelevant.
+
+*Consider, however this statement (conditional)*
+"If the global economy grows then there will be less poverty and starvation in the world"
+
+- The Ramsey test will not produce a high level of confidence in this conditional for many people.
+- (They may believe, for example, that the growth in the global economy increases wealth for rich individuals and rich countries but is not likely to be distributed to the third world. where most of the poverty and starvation is concentrated).
+- If their belief in the conditional is low, they will also be reluctant to draw inferences from it, even the apparently obvious Modus Ponens.
+
+> - There is now much evidence that, with real-life conditionals like these, people do indeed assign very similar belief levels to "if p then q" as they do to the probability of "q given p" (e.g. *Over, Hadjichristidis, Evans, Handley, & Sloman, 2007*).
+> - People act as though the conditional only applies on the supposition that p is true, in people’s minds, and is otherwise irrelevant.
+> - This is not consistent at all with the material conditional of standard logic.
+
+
+## Bayesian decision theory
+---
+
+- A system which takes account of subjective beliefs
+- and also evaluate the degree of uncertainty
+
