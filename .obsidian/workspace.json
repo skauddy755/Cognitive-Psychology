@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "52c50ab48866e818",
+        "id": "57e221a1d7e05295",
         "type": "tabs",
         "children": [
           {
-            "id": "617953c5dd4f5109",
+            "id": "57d06cc7f55f9d1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/weekly_readings.md",
+                "file": "NOTES/Deduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9c45387b9b17ae45",
+            "id": "a6f684a9e439d3bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a059d051c49e94db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/Intelligence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5110321044922
+    "width": 321.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "c56b91f657c891f5",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/Induction.md",
+                "file": "NOTES/Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/Induction.md",
+                "file": "NOTES/Intelligence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/Induction.md"
+                "file": "NOTES/Intelligence.md"
               }
             }
           }
@@ -160,10 +173,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c45387b9b17ae45",
+  "active": "a059d051c49e94db",
   "lastOpenFiles": [
-    "NOTES/Untitled.md",
+    "COMPILED - NOTES/POST-MID/Deduction.pdf",
+    "COMPILED - NOTES/POST-MID/I am Thinking.pdf",
+    "COMPILED - NOTES/POST-MID/Language and Thought.pdf",
+    "COMPILED - NOTES/POST-MID/Representation of Knowledge.pdf",
+    "COMPILED - NOTES/POST-MID/Problem Solving.pdf",
+    "COMPILED - NOTES/POST-MID/Induction.pdf",
     "NOTES/Induction.md",
+    "NOTES/Deduction.md",
+    "NOTES/I am Thinking.md",
+    "NOTES/Language and Thought.md",
+    "NOTES/Representation of Knowledge.md",
+    "NOTES/Problem Solving.md",
+    "NOTES/Intelligence.md",
+    "COMPILED - NOTES/POST-MID",
+    "COMPILED - NOTES/PRE-MID/The Prehistory of Cognitive Science.pdf",
+    "COMPILED - NOTES/PRE-MID/Systematic Literature Review.pdf",
+    "COMPILED - NOTES/PRE-MID/Representation of Mental Images.pdf",
+    "COMPILED - NOTES/PRE-MID/Memory - Retention and Retrieval.pdf",
+    "NOTES/weekly_readings.md",
     "NOTES/attachments/Pasted image 20230429210041.png",
     "NOTES/attachments/Pasted image 20230429205911.png",
     "NOTES/attachments/Pasted image 20230429205736.png",
@@ -172,28 +202,12 @@
     "NOTES/attachments/Pasted image 20230429205611.png",
     "NOTES/attachments/Pasted image 20230429162351.png",
     "NOTES/attachments/Pasted image 20230429153301.png",
-    "NOTES/Deduction.md",
-    "CLASS_PPTs/PPT - Induction.pdf",
-    "CLASS_PPTs/PPT - Intelligence.pdf",
-    "CLASS_PPTs/PPT - Problem Solving.pdf",
-    "CLASS_PPTs/PPT - Language & Thought.pdf",
-    "CLASS_PPTs/PPT - Deduction and Reasoning.pdf",
-    "NOTES/weekly_readings.md",
     "NOTES/attachments/Pasted image 20230428122356.png",
     "NOTES/attachments/Pasted image 20230428122320.png",
-    "NOTES/I am Thinking.md",
-    "CLASS_PPTs/Problem Solving.pdf",
-    "CLASS_PPTs/Language & Thought.pdf",
-    "CLASS_PPTs/Intelligence.pdf",
-    "CLASS_PPTs/Induction.pdf",
-    "CLASS_PPTs/Deduction and Reasoning.pdf",
-    "NOTES/Language and Thought.md",
     "NOTES/Everything_studied.md",
     "READINGS.md",
-    "NOTES/Problem Solving.md",
     "NOTES/Memory - Retention and Retrieval.md",
     "NOTES/Memory - Encoding and Storage.md",
-    "NOTES/Representation of Knowledge.md",
     "NOTES/Systematic Literature Review.md",
     "NOTES/Experimental methods in Cognitive Science.md",
     "NOTES/Representation of Mental Images.md",
