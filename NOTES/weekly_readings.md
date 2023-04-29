@@ -91,7 +91,7 @@ Summary: #week-9
 **Inductive Reasoning** and **Intelligence**
 
 1. [[Inductive Reasoning.pdf]]
-	- Summary: #week-13
+	- Summary: #week-13 
 2. [[Intelligence.pdf]]
 	- Summary: #week-13 
 
